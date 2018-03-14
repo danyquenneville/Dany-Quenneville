@@ -1,0 +1,36 @@
+2018-03-11	05:41:52:241	 392	190	Misc	===========  Logging initialized (build: 7.6.7601.23806, tz: -0400)  ===========
+2018-03-11	05:41:52:241	 392	190	Misc	  = Process: C:\Windows\system32\wuauclt.exe
+2018-03-11	05:41:52:241	 392	190	AUClnt	Launched Client UI process
+2018-03-11	05:41:52:381	 392	190	Misc	===========  Logging initialized (build: 7.6.7601.23806, tz: -0400)  ===========
+2018-03-11	05:41:52:381	 392	190	Misc	  = Process: C:\Windows\system32\wuauclt.exe
+2018-03-11	05:41:52:381	 392	190	Misc	  = Module: C:\Windows\system32\wucltux.dll
+2018-03-11	05:41:52:381	 392	190	CltUI	AU client got new directive = 'Shutdown', serviceId = {9482F4B4-E343-43B6-B170-9A65BC822C77}, return = 0
+2018-03-11	05:43:29:148	3360	9a4	Misc	===========  Logging initialized (build: 7.6.7601.23806, tz: -0400)  ===========
+2018-03-11	05:43:29:148	3360	9a4	Misc	  = Process: C:\Windows\system32\wuauclt.exe
+2018-03-11	05:43:29:148	3360	9a4	AUClnt	Launched Client UI process
+2018-03-11	05:43:29:273	3360	9a4	Misc	===========  Logging initialized (build: 7.6.7601.23806, tz: -0400)  ===========
+2018-03-11	05:43:29:273	3360	9a4	Misc	  = Process: C:\Windows\system32\wuauclt.exe
+2018-03-11	05:43:29:273	3360	9a4	Misc	  = Module: C:\Windows\system32\wucltux.dll
+2018-03-11	05:43:29:273	3360	9a4	CltUI	AU client got new directive = 'Shutdown', serviceId = {9482F4B4-E343-43B6-B170-9A65BC822C77}, return = 0
+2018-03-11	06:03:41:329	4968	df0	Misc	===========  Logging initialized (build: 7.6.7601.23806, tz: -0400)  ===========
+2018-03-11	06:03:41:329	4968	df0	Misc	  = Process: C:\Windows\system32\wuauclt.exe
+2018-03-11	06:03:41:329	4968	df0	AUClnt	Launched Client UI process
+2018-03-11	06:03:41:453	4968	df0	Misc	===========  Logging initialized (build: 7.6.7601.23806, tz: -0400)  ===========
+2018-03-11	06:03:41:453	4968	df0	Misc	  = Process: C:\Windows\system32\wuauclt.exe
+2018-03-11	06:03:41:453	4968	df0	Misc	  = Module: C:\Windows\system32\wucltux.dll
+2018-03-11	06:03:41:453	4968	df0	CltUI	AU client got new directive = 'Shutdown', serviceId = {9482F4B4-E343-43B6-B170-9A65BC822C77}, return = 0
+2018-03-11	17:40:39:225	1832	b44	Misc	===========  Logging initialized (build: 7.6.7601.23806, tz: -0400)  ===========
+2018-03-11	17:40:39:225	1832	b44	Misc	  = Process: C:\Windows\system32\wuauclt.exe
+2018-03-11	17:40:39:222	1832	b44	AUClnt	Launched Client UI process
+2018-03-11	17:40:39:402	1832	b44	Misc	===========  Logging initialized (build: 7.6.7601.23806, tz: -0400)  ===========
+2018-03-11	17:40:39:402	1832	b44	Misc	  = Process: C:\Windows\system32\wuauclt.exe
+2018-03-11	17:40:39:402	1832	b44	Misc	  = Module: C:\Windows\system32\wucltux.dll
+2018-03-11	17:40:39:402	1832	b44	CltUI	AU client got new directive = 'Download Progress', serviceId = {9482F4B4-E343-43B6-B170-9A65BC822C77}, return = 0
+2018-03-11	17:40:58:498	1832	b44	CltUI	AU client got new directive = 'Shutdown', serviceId = {9482F4B4-E343-43B6-B170-9A65BC822C77}, return = 0
+2018-03-12	01:37:11:797	4384	1694	Misc	===========  Logging initialized (build: 7.6.7601.23806, tz: -0400)  ===========
+2018-03-12	01:37:11:797	4384	1694	Misc	  = Process: C:\Windows\system32\wuauclt.exe
+2018-03-12	01:37:11:797	4384	1694	AUClnt	Launched Client UI process
+2018-03-12	01:37:11:969	4384	1694	Misc	===========  Logging initialized (build: 7.6.7601.23806, tz: -0400)  ===========
+2018-03-12	01:37:11:969	4384	1694	Misc	  = Process: C:\Windows\system32\wuauclt.exe
+2018-03-12	01:37:11:969	4384	1694	Misc	  = Module: C:\Windows\system32\wucltux.dll
+2018-03-12	01:37:11:969	4384	1694	CltUI	AU client got new directive = 'Install Approval', serviceId = {9482F4B4-E343-43B6-B170-9A65BC822C77}, return = 0

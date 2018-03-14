@@ -1,0 +1,682 @@
+{
+   "checksum": "3f977094a0653f2475e0f1526f24359c",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13102375251826588",
+            "id": "36",
+            "meta_info": {
+               "last_visited_desktop": "13165305678802815"
+            },
+            "name": "Facebook",
+            "sync_transaction_version": "11",
+            "type": "url",
+            "url": "https://www.facebook.com/"
+         }, {
+            "date_added": "13155878038138524",
+            "id": "37",
+            "meta_info": {
+               "last_visited_desktop": "13165149354429215"
+            },
+            "name": "Google",
+            "sync_transaction_version": "12",
+            "type": "url",
+            "url": "https://www.google.ca/?hl=fr"
+         }, {
+            "date_added": "13164778829739015",
+            "id": "38",
+            "meta_info": {
+               "last_visited_desktop": "13165190971863965"
+            },
+            "name": "(3) YouTube",
+            "sync_transaction_version": "13",
+            "type": "url",
+            "url": "https://www.youtube.com/?gl=CA"
+         }, {
+            "date_added": "13164779259428814",
+            "id": "39",
+            "meta_info": {
+               "last_visited_desktop": "13165190964526413"
+            },
+            "name": "HDS.TO : FILMS ET SÉRIES EN HD",
+            "sync_transaction_version": "14",
+            "type": "url",
+            "url": "https://www.hds.to/"
+         }, {
+            "date_added": "13164811935062786",
+            "id": "40",
+            "meta_info": {
+               "last_visited_desktop": "13165190961869907"
+            },
+            "name": "Financial Services - Banking & Capital Markets - Microsoft Enterprise",
+            "sync_transaction_version": "15",
+            "type": "url",
+            "url": "https://enterprise.microsoft.com/en-us/industries/banking-and-capital-markets/"
+         }, {
+            "date_added": "13164811943365786",
+            "id": "41",
+            "meta_info": {
+               "last_visited_desktop": "13164830370458208"
+            },
+            "name": "Microsoft Azure Virtual Machines - Getting Started | Pluralsight",
+            "sync_transaction_version": "16",
+            "type": "url",
+            "url": "https://app.pluralsight.com/library/courses/azure-vms-getting-started/table-of-contents"
+         }, {
+            "date_added": "13164817880840010",
+            "id": "42",
+            "meta_info": {
+               "last_visited_desktop": "13164817880843010"
+            },
+            "name": "Comment faire - Revenu Québec",
+            "sync_transaction_version": "17",
+            "type": "url",
+            "url": "https://citoyens.revenuquebec.ca/CitNA/TW/TW01/TW01.CitoyensNA/IDP/?AuthLevel=600&TYPE=33554433&REALMOID=06-19d257b3-25e4-40e7-b525-8cbaf3c9481d&GUID=&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=-SM-fEqsYN7tvijETL4BxEFHliHeRjImmjXkIsKDGTL7vJJgfzFMlc5hLBbea7EJOEn%2b&TARGET=-SM-HTTPS:%2f%2fcitoyens.revenuquebec.ca%2fRQCitoyenExterne%2fS2%2fS201%2fS201A02_01A_PIU_PresSommDoss_PC%2fSommaireDossier.aspx%3fT1.CodeService%3dS00199"
+         }, {
+            "date_added": "13164818087741343",
+            "id": "43",
+            "meta_info": {
+               "last_visited_desktop": "13164818946441920"
+            },
+            "name": "Mon dossier pour les particuliers - Canada.ca",
+            "sync_transaction_version": "18",
+            "type": "url",
+            "url": "https://www.canada.ca/fr/agence-revenu/services/services-electroniques/services-electroniques-particuliers/dossier-particuliers.html"
+         }, {
+            "date_added": "13164838136634560",
+            "id": "44",
+            "meta_info": {
+               "last_visited_desktop": "13165043842801959"
+            },
+            "name": "Get Ubuntu | Download | Ubuntu",
+            "sync_transaction_version": "19",
+            "type": "url",
+            "url": "https://www.ubuntu.com/download"
+         }, {
+            "date_added": "13164862557273321",
+            "id": "45",
+            "meta_info": {
+               "last_visited_desktop": "13165072025826906"
+            },
+            "name": "Issues - chromium - An open-source project to help move the web forward. - Monorail",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://bugs.chromium.org/p/chromium/issues/list?q=component:Blink%3ECSS"
+         }, {
+            "date_added": "13164872002278568",
+            "id": "46",
+            "meta_info": {
+               "last_visited_desktop": "13165073404663904"
+            },
+            "name": "(99+) DevTools Reviews - Google Groupes",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://groups.google.com/a/chromium.org/forum/#!forum/devtools-reviews"
+         }, {
+            "date_added": "13164872088830896",
+            "id": "47",
+            "meta_info": {
+               "last_visited_desktop": "13164872088831896"
+            },
+            "name": "Google AdSense",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.google.com/adsense/new/u/0/pub-1714125390812353/"
+         }, {
+            "date_added": "13164872099775896",
+            "id": "48",
+            "meta_info": {
+               "last_visited_desktop": "13164872099776896"
+            },
+            "name": "AdWords",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://adwords.google.com/aw/overview?ocid=109023871&__c=3343921479&authuser=0&__u=7538320719"
+         }, {
+            "date_added": "13164872672724343",
+            "id": "49",
+            "meta_info": {
+               "last_visited_desktop": "13164872672725343"
+            },
+            "name": "Google Dashboard",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://myaccount.google.com/dashboard"
+         }, {
+            "date_added": "13165061825502726",
+            "id": "50",
+            "meta_info": {
+               "last_visited_desktop": "13165061825502726"
+            },
+            "name": "Dynamics 365",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://home.dynamics.com/"
+         }, {
+            "date_added": "13165073190271751",
+            "id": "51",
+            "meta_info": {
+               "last_visited_desktop": "13165073190272751"
+            },
+            "name": "Search results for cvv",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://git-scm.com/search/results?search=cvv"
+         }, {
+            "date_added": "13165077453332382",
+            "id": "52",
+            "meta_info": {
+               "last_visited_desktop": "13165077482826074"
+            },
+            "name": "tools - gitiles - Git at Google",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://gerrit.googlesource.com/gitiles/+/7c07a4a68ece6009909206482e0728dbbf0be77d/tools/"
+         }, {
+            "date_added": "13165115148814530",
+            "id": "53",
+            "meta_info": {
+               "last_visited_desktop": "13165115148815246"
+            },
+            "name": "The Chromium Projects",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.chromium.org/"
+         }, {
+            "date_added": "13165116918510676",
+            "id": "54",
+            "meta_info": {
+               "last_visited_desktop": "13165116918511742"
+            },
+            "name": "Ressources de TIC | Indicateur avancé des exportations - Exportation et développement Canada (EDC)",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://exportation.edc.trade/fr/tic/ressources/"
+         }, {
+            "date_added": "13165154218134275",
+            "id": "55",
+            "name": "小编推荐应用",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.google.cn/chrome/intl/zh-CN/apps.html"
+         }, {
+            "children": [ {
+               "date_added": "13165154220112516",
+               "id": "57",
+               "name": "轻松上手",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.google.com/chrome/intl/zh-CN/welcome.html"
+            }, {
+               "date_added": "13165154220170316",
+               "id": "58",
+               "name": "淘宝网 - 淘！我喜欢",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.taobao.com/"
+            }, {
+               "date_added": "13165154220174704",
+               "id": "59",
+               "name": "淘宝商城正式更名天猫,品质共享为你而变 tmall.com",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.tmall.com/"
+            }, {
+               "date_added": "13165154220178414",
+               "id": "60",
+               "name": "京东网上商城-综合网购首选，正品行货，机打发票，售后上门取件，省钱又放心",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.360buy.com/"
+            }, {
+               "date_added": "13165154220194653",
+               "id": "61",
+               "name": "当当网—网上购物中心：图书、母婴、美妆、家居、数码、家电、服装、鞋包等，正品低价，货到付款",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://dangdang.com/"
+            }, {
+               "date_added": "13165154220197808",
+               "id": "62",
+               "name": "太平洋电脑网_中国第一专业IT门户网站",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.pconline.com.cn/"
+            }, {
+               "date_added": "13165154220234450",
+               "id": "63",
+               "meta_info": {
+                  "last_visited_desktop": "13165306020110536"
+               },
+               "name": "中关村在线 - 大中华区最具商业价值的IT专业网站 - The most valuable and professional IT business website in Greater China",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.zol.com.cn/"
+            }, {
+               "date_added": "13165154220235892",
+               "id": "64",
+               "name": "大众点评网_美食，生活，优惠券",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.dianping.com/citylist"
+            }, {
+               "date_added": "13165154220239230",
+               "id": "65",
+               "name": "北京美食，北京餐厅，好吃又便宜的美食餐厅预订尽在饭统网",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.fantong.com/beijing/"
+            }, {
+               "date_added": "13165154220240181",
+               "id": "66",
+               "name": "163网易免费邮--中文邮箱第一品牌",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://mail.163.com/"
+            }, {
+               "date_added": "13165154220243331",
+               "id": "67",
+               "name": "Gmail：来自 Google 的电子邮件",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.gmail.com/"
+            }, {
+               "date_added": "13165154220246325",
+               "id": "68",
+               "name": "Hotmail 登录",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.hotmail.com/"
+            }, {
+               "date_added": "13165154220247331",
+               "id": "69",
+               "meta_info": {
+                  "last_visited_desktop": "13165306021669571"
+               },
+               "name": "优酷-中国第一视频网站,提供视频播放,视频发布,视频搜索 - 优酷视频",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.youku.com/"
+            }, {
+               "date_added": "13165154220248705",
+               "id": "70",
+               "name": "土豆网_每个人都是生活的导演_在线视频观看,原创视频上传,海量视频搜索",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.tudou.com/"
+            }, {
+               "date_added": "13165154220431835",
+               "id": "71",
+               "name": "265上网导航 - 最多中国人使用的电脑主页",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.265.com/"
+            }, {
+               "date_added": "13165154220439839",
+               "id": "72",
+               "name": "网易",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.163.com/"
+            }, {
+               "date_added": "13165154220442727",
+               "id": "73",
+               "name": "搜狐-中国最大的门户网站",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.sohu.com/"
+            }, {
+               "date_added": "13165154220444511",
+               "id": "74",
+               "name": "新浪首页",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.sina.com.cn/"
+            }, {
+               "date_added": "13165154220448209",
+               "id": "75",
+               "name": "新浪微博-随时随地分享身边的新鲜事儿",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://weibo.com/"
+            }, {
+               "date_added": "13165154220471119",
+               "id": "76",
+               "name": "腾讯首页",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.qq.com/"
+            }, {
+               "date_added": "13165155227574212",
+               "id": "77",
+               "meta_info": {
+                  "last_visited_desktop": "13165155227630044"
+               },
+               "name": "Paramètres",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "chrome://settings/content/siteDetails?site=https%3A%2F%2Fgenerator.creditcard"
+            }, {
+               "date_added": "13165158679539595",
+               "id": "78",
+               "meta_info": {
+                  "last_visited_desktop": "13165159942347605"
+               },
+               "name": "Instant Bank Verification | API",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.ibvnow.com/Api"
+            } ],
+            "date_added": "13165307406821746",
+            "date_modified": "13165307406821746",
+            "id": "56",
+            "name": "常用网站",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         } ],
+         "date_added": "13165306701739748",
+         "date_modified": "13165154218134275",
+         "id": "1",
+         "name": "Barre de favoris",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13132612405293469",
+            "id": "34",
+            "meta_info": {
+               "last_visited": "13163765345365361",
+               "last_visited_desktop": "13161802990472834"
+            },
+            "name": "Google",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.google.ca/"
+         }, {
+            "date_added": "13132612405343469",
+            "id": "35",
+            "meta_info": {
+               "last_visited": "13162399703254845"
+            },
+            "name": "Services d'ouverture de session de l'ARC",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.cra-arc.gc.ca/esrvc-srvce/tx/psssrvcs/menu-fra.html"
+         } ],
+         "date_added": "13165306701739748",
+         "date_modified": "13132612405343469",
+         "id": "2",
+         "name": "Autres favoris",
+         "type": "folder"
+      },
+      "sync_transaction_version": "19",
+      "synced": {
+         "children": [ {
+            "date_added": "13104737580858702",
+            "id": "5",
+            "name": "Straight Porn Videos on PornMD",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.pornmd.com/straight/porn+videos?utm_source=cumlouder&utm_medium=search-bar&utm_campaign=cumlouder"
+         }, {
+            "date_added": "13105546476511894",
+            "id": "6",
+            "name": "Machines à sous, jeux de table, jeux de casino en ligne, et plus. – Espacejeux.com",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://m.espacejeux.com/fr/casino/?gclid=Cj0KEQjwrte4BRD-oYi3y5_AhZ4BEiQAzIFxn8NQM8n2rYhGp-EDYkrP6wvPlUP5qkwUOVvgDCwaoLEaAoaC8P8HAQ"
+         }, {
+            "date_added": "13132517042303486",
+            "id": "7",
+            "name": "Extraits des rôles d'audience",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://roles.tribunaux.qc.ca/"
+         }, {
+            "date_added": "13132642037337686",
+            "id": "8",
+            "name": "Solutions personnelles: Dossiers de crédit, Scores de crédit, Protection contre le vol d'identité",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.econsumer.equifax.ca/canadaotc/showmyequifax.ehtml?tab=dashboard"
+         }, {
+            "date_added": "13132923544464788",
+            "id": "9",
+            "name": "Personal access tokens",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://djrepress666.visualstudio.com/_details/security/tokens"
+         }, {
+            "date_added": "13132923577938993",
+            "id": "10",
+            "name": "Mes informations",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://app.vsaex.visualstudio.com/me?mkt=fr-FR&campaign=o~msft~vscom~signin"
+         }, {
+            "date_added": "13132983315594054",
+            "id": "11",
+            "meta_info": {
+               "last_visited_desktop": "13161798125983198"
+            },
+            "name": "Get Started - PayPal Developer",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://developer.paypal.com/docs/accept-payments/express-checkout/ec-braintree-sdk/get-started/"
+         }, {
+            "date_added": "13133599865222490",
+            "id": "12",
+            "name": "Sample certificates and CRLs from PKIX Certificate and CRL profiles",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://csrc.nist.gov/groups/ST/crypto_apps_infra/documents/pkixtools/"
+         }, {
+            "date_added": "13139736384808653",
+            "id": "13",
+            "name": "Infoscan Consulter le sujet - Je cherche Fréquence 12-13 Longueuil",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.infoscan.org/forum/viewtopic.php?t=3929"
+         }, {
+            "date_added": "13150451932671231",
+            "id": "14",
+            "meta_info": {
+               "last_visited": "13164690324890778",
+               "last_visited_desktop": "13164357748835265"
+            },
+            "name": "Transformers: The Last Knight",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.hd-stream.net/films/transformers-the-last-knight-2017-streaming.php"
+         }, {
+            "date_added": "13151164263387119",
+            "id": "15",
+            "name": "Service et garantie",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.beatsbydre.com/ca-fr/support/service-warranty"
+         }, {
+            "date_added": "13152644227516177",
+            "id": "16",
+            "name": "Accueil - CTMA",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.traversierctma.ca/fr/"
+         }, {
+            "date_added": "13154829532575647",
+            "id": "17",
+            "name": "Absoluporn.com - Porno Français actrices x francaises fr france Videos sexe xxx films porno en streaming",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://m.absoluporn.com/fr/tag-french-1.html"
+         }, {
+            "date_added": "13161441073034528",
+            "id": "18",
+            "meta_info": {
+               "last_visited": "13164562494783463"
+            },
+            "name": "Billing",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://ferum-shop.ru/balance.php"
+         }, {
+            "date_added": "13161476475727718",
+            "id": "19",
+            "meta_info": {
+               "last_visited": "13161476475737051"
+            },
+            "name": "AST",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://us.astfinancial.com/InvestOnline/Invest/PlanDetail?CoNumber=40000&PlanType=DPSS#"
+         }, {
+            "date_added": "13161510734979691",
+            "id": "20",
+            "meta_info": {
+               "last_visited": "13163712596691808",
+               "last_visited_desktop": "13164270651288759"
+            },
+            "name": "YOPmail",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://m.yopmail.com/"
+         }, {
+            "date_added": "13162064032973803",
+            "id": "21",
+            "meta_info": {
+               "last_visited": "13162064032983425"
+            },
+            "name": "YopMail - Plugin Firefox et Internet Explorer 7",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://m.yopmail.com/plugins.php"
+         }, {
+            "date_added": "13162172136229655",
+            "id": "22",
+            "meta_info": {
+               "last_visited": "13162172136265051"
+            },
+            "name": "Paying by Pre-Authorized Debit | Payments Canada",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.payments.ca/paying-pre-authorized-debit"
+         }, {
+            "date_added": "13162172233074844",
+            "id": "23",
+            "meta_info": {
+               "last_visited": "13162172280421043"
+            },
+            "name": "Sitemap | Payments Canada",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.payments.ca/sitemap"
+         }, {
+            "date_added": "13162496690662737",
+            "id": "24",
+            "meta_info": {
+               "last_visited": "13162497274849171"
+            },
+            "name": "reseauescorte.ca/login.html",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://reseauescorte.ca/login.html"
+         }, {
+            "date_added": "13162650155423770",
+            "id": "25",
+            "meta_info": {
+               "last_visited": "13162650235801483"
+            },
+            "name": "Groupe Financier Banque TD- À propos du Groupe Financier Banque TD",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.td.com/francais/m/index.jsp"
+         }, {
+            "date_added": "13162651081238869",
+            "id": "26",
+            "meta_info": {
+               "last_visited": "13162651341075094"
+            },
+            "name": "TD Bank America's Most Convenient Bank",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://m.tdbank.com/"
+         }, {
+            "date_added": "13163759113181021",
+            "id": "27",
+            "meta_info": {
+               "last_visited": "13163763984308856"
+            },
+            "name": "YourAdChoices.com",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://youradchoices.com/appchoices"
+         }, {
+            "date_added": "13163763210376680",
+            "id": "28",
+            "meta_info": {
+               "last_visited": "13163763210454029"
+            },
+            "name": "https://www.blog.google/rss/",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.blog.google/rss/"
+         }, {
+            "date_added": "13163763504503083",
+            "id": "29",
+            "meta_info": {
+               "last_visited": "13163763504509843"
+            },
+            "name": "Adobe Sign Help",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://helpx.adobe.com/sign/topics.html"
+         }, {
+            "date_added": "13163765406021552",
+            "id": "30",
+            "meta_info": {
+               "last_visited": "13163765406068480"
+            },
+            "name": "Entreprises participantes – Choix de pub",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://youradchoices.ca/fr/entreprises-participantes/"
+         }, {
+            "date_added": "13163781088814604",
+            "id": "31",
+            "meta_info": {
+               "last_visited": "13163781088851416"
+            },
+            "name": "Find a Laptop, Notebook, Desktop, Server, Printer, Software, Service, Monitor or TV at Dell.",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://ecomm.dell.com/myaccount/main.aspx?c%3dus%26l%3den"
+         }, {
+            "date_added": "13164220312566449",
+            "id": "32",
+            "meta_info": {
+               "last_visited": "13164562407693111"
+            },
+            "name": "Termes clés – Politique de confidentialité et conditions d’utilisation – Google",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.google.com/intl/fr-CA/policies/privacy/key-terms/"
+         }, {
+            "date_added": "13164302321384344",
+            "id": "33",
+            "meta_info": {
+               "last_visited": "13164745466329407"
+            },
+            "name": "Latest Android Studio Canary Build - Android Studio Project Site",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://tools.android.com/download/studio/canary/latest"
+         } ],
+         "date_added": "13165306701739748",
+         "date_modified": "13164302321384344",
+         "id": "3",
+         "name": "Favoris sur mobile",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

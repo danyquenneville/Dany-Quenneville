@@ -1,0 +1,58 @@
+[0311/051834.009:VERBOSE1:setup_main.cc(1299)] Command Line: "C:\Program Files (x86)\Google\Chrome Beta\Application\65.0.3325.106\Installer\chrmstp.exe" --configure-user-settings --verbose-logging --system-level --chrome-beta
+[0311/051834.009:VERBOSE1:setup_main.cc(1305)] system install is 1
+[0311/051834.009:VERBOSE1:installer_state.cc(74)] Install distribution: Version bÃªta de GoogleÂ Chrome
+[0311/051834.009:VERBOSE1:setup_main.cc(1313)] is_migrating_to_single is 0
+[0311/051834.134:VERBOSE1:install_util.cc(217)] Windows NT 6.1.7601 SP1
+[0311/051834.149:VERBOSE1:install_worker.cc(787)] Adding unregistration items for per-user Metro keys.
+[0311/051834.149:VERBOSE1:work_item_list.cc(34)] Beginning execution of work item list Cleanup deprecated per-user registrations
+[0311/051834.149:VERBOSE1:install_util.cc(295)] Deleting registry key Software\Google\Chrome Beta\Metro
+[0311/051834.149:VERBOSE1:install_util.cc(295)] Deleting registry key Software\Google\Chrome Beta\Metro
+[0311/051834.149:VERBOSE1:work_item_list.cc(55)] Successful execution of work item list Cleanup deprecated per-user registrations
+[0311/051834.212:VERBOSE1:install.cc(121)] Creating per-user Desktop "Version bÃªta de GoogleÂ Chrome" shortcut to C:\Program Files (x86)\Google\Chrome Beta\Application\chrome.exe.
+[0311/051834.212:VERBOSE1:install.cc(121)] Creating per-user Quick Launch "Version bÃªta de GoogleÂ Chrome" shortcut to C:\Program Files (x86)\Google\Chrome Beta\Application\chrome.exe.
+[0311/051834.305:VERBOSE1:install.cc(121)] Creating per-user Start menu "Version bÃªta de GoogleÂ Chrome" shortcut to C:\Program Files (x86)\Google\Chrome Beta\Application\chrome.exe and pinning to the taskbar.
+[0311/051844.414:WARNING:install_util.cc(500)] Failed opening C:\Users\Dany Quenneville\AppData\Local\Google\Chrome Beta\Application\chrome.exe; falling back to path string comparisons.: Le chemin d’accès spécifié est introuvable. (0x3)
+[0311/051847.955:VERBOSE1:setup_main.cc(1299)] Command Line: "C:\Program Files (x86)\Google\Chrome\Application\64.0.3282.186\Installer\chrmstp.exe" --configure-user-settings --verbose-logging --system-level
+[0311/051847.955:VERBOSE1:setup_main.cc(1305)] system install is 1
+[0311/051847.955:VERBOSE1:installer_state.cc(74)] Install distribution: Google Chrome
+[0311/051847.955:VERBOSE1:setup_main.cc(1313)] is_migrating_to_single is 0
+[0311/051848.080:VERBOSE1:install_util.cc(217)] Windows NT 6.1.7601 SP1
+[0311/051848.080:VERBOSE1:install_worker.cc(787)] Adding unregistration items for per-user Metro keys.
+[0311/051848.080:VERBOSE1:work_item_list.cc(34)] Beginning execution of work item list Cleanup deprecated per-user registrations
+[0311/051848.080:VERBOSE1:install_util.cc(295)] Deleting registry key Software\Google\Chrome\Metro
+[0311/051848.080:VERBOSE1:install_util.cc(295)] Deleting registry key Software\Google\Chrome\Metro
+[0311/051848.080:VERBOSE1:work_item_list.cc(55)] Successful execution of work item list Cleanup deprecated per-user registrations
+[0311/051848.096:VERBOSE1:install.cc(121)] Creating per-user Desktop "Google Chrome" shortcut to C:\Program Files (x86)\Google\Chrome\Application\chrome.exe.
+[0311/051848.096:VERBOSE1:install.cc(121)] Creating per-user Quick Launch "Google Chrome" shortcut to C:\Program Files (x86)\Google\Chrome\Application\chrome.exe.
+[0311/051848.189:VERBOSE1:install.cc(121)] Creating per-user Start menu "Google Chrome" shortcut to C:\Program Files (x86)\Google\Chrome\Application\chrome.exe and pinning to the taskbar.
+[0311/051850.810:WARNING:install_util.cc(500)] Failed opening C:\Users\Dany Quenneville\AppData\Local\Google\Chrome\Application\chrome.exe; falling back to path string comparisons.: Le chemin d’accès spécifié est introuvable. (0x3)
+[0311/054819.791:VERBOSE1:setup_main.cc(1299)] Command Line: "C:\Program Files (x86)\Google\Chrome\Application\64.0.3282.186\Installer\chrmstp.exe" --configure-user-settings --verbose-logging --system-level --force-configure-user-settings
+[0311/054819.791:VERBOSE1:setup_main.cc(1305)] system install is 1
+[0311/054819.791:VERBOSE1:installer_state.cc(74)] Install distribution: Google Chrome
+[0311/054819.791:VERBOSE1:setup_main.cc(1313)] is_migrating_to_single is 0
+[0311/054819.900:VERBOSE1:install_util.cc(217)] Windows NT 6.1.7601 SP1
+[0311/054819.900:VERBOSE1:install_worker.cc(787)] Adding unregistration items for per-user Metro keys.
+[0311/054819.900:VERBOSE1:work_item_list.cc(34)] Beginning execution of work item list Cleanup deprecated per-user registrations
+[0311/054819.916:VERBOSE1:install_util.cc(295)] Deleting registry key Software\Google\Chrome\Metro
+[0311/054819.916:VERBOSE1:install_util.cc(295)] Deleting registry key Software\Google\Chrome\Metro
+[0311/054819.916:VERBOSE1:work_item_list.cc(55)] Successful execution of work item list Cleanup deprecated per-user registrations
+[0311/054819.916:VERBOSE1:install.cc(121)] Creating per-user Desktop "Google Chrome" shortcut to C:\Program Files (x86)\Google\Chrome\Application\chrome.exe.
+[0311/054819.916:VERBOSE1:install.cc(121)] Creating per-user Quick Launch "Google Chrome" shortcut to C:\Program Files (x86)\Google\Chrome\Application\chrome.exe.
+[0311/054820.056:VERBOSE1:install.cc(121)] Creating per-user Start menu "Google Chrome" shortcut to C:\Program Files (x86)\Google\Chrome\Application\chrome.exe and pinning to the taskbar.
+[0311/054822.889:ERROR:shell_util.cc(1754)] Failed to pin to taskbar C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Google Chrome.lnk
+[0311/054822.896:WARNING:install_util.cc(500)] Failed opening C:\Users\Dany Quenneville\AppData\Local\Google\Chrome\Application\chrome.exe; falling back to path string comparisons.: Le chemin d’accès spécifié est introuvable. (0x3)
+[0312/013843.890:VERBOSE1:setup_main.cc(1299)] Command Line: "C:\Program Files (x86)\Google\Chrome Beta\Application\65.0.3325.125\Installer\chrmstp.exe" --configure-user-settings --verbose-logging --system-level --chrome-beta --force-configure-user-settings
+[0312/013843.922:VERBOSE1:setup_main.cc(1305)] system install is 1
+[0312/013843.922:VERBOSE1:installer_state.cc(74)] Install distribution: Version bÃªta de GoogleÂ Chrome
+[0312/013843.922:VERBOSE1:setup_main.cc(1313)] is_migrating_to_single is 0
+[0312/013844.433:VERBOSE1:install_util.cc(217)] Windows NT 6.1.7601 SP1
+[0312/013844.468:VERBOSE1:install_worker.cc(787)] Adding unregistration items for per-user Metro keys.
+[0312/013844.469:VERBOSE1:work_item_list.cc(34)] Beginning execution of work item list Cleanup deprecated per-user registrations
+[0312/013844.469:VERBOSE1:install_util.cc(295)] Deleting registry key Software\Google\Chrome Beta\Metro
+[0312/013844.469:VERBOSE1:install_util.cc(295)] Deleting registry key Software\Google\Chrome Beta\Metro
+[0312/013844.469:VERBOSE1:work_item_list.cc(55)] Successful execution of work item list Cleanup deprecated per-user registrations
+[0312/013844.477:VERBOSE1:install.cc(121)] Creating per-user Desktop "Version bÃªta de GoogleÂ Chrome" shortcut to C:\Program Files (x86)\Google\Chrome Beta\Application\chrome.exe.
+[0312/013844.481:VERBOSE1:install.cc(121)] Creating per-user Quick Launch "Version bÃªta de GoogleÂ Chrome" shortcut to C:\Program Files (x86)\Google\Chrome Beta\Application\chrome.exe.
+[0312/013845.049:VERBOSE1:install.cc(121)] Creating per-user Start menu "Version bÃªta de GoogleÂ Chrome" shortcut to C:\Program Files (x86)\Google\Chrome Beta\Application\chrome.exe and pinning to the taskbar.
+[0312/013853.082:ERROR:shell_util.cc(1754)] Failed to pin to taskbar C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Version bÃªta de GoogleÂ Chrome.lnk
+[0312/013853.091:WARNING:install_util.cc(500)] Failed opening C:\Users\Dany Quenneville\AppData\Local\Google\Chrome Beta\Application\chrome.exe; falling back to path string comparisons.: Le chemin d’accès spécifié est introuvable. (0x3)

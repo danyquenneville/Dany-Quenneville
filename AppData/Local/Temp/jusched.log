@@ -1,0 +1,65 @@
+[2018/03/11 05:19:05.035, jusched.exe (PID: 4704, TID: 4708), AllUtils.cpp:136 (logit)]
+	INFO: **************** Running jusched ****************
+
+[2018/03/11 05:24:05.055, jusched.exe (PID: 4704, TID: 4708), AllUtils.cpp:136 (logit)]
+	INFO: JavaUpdate : LastFinishTime is after LastScheduledTime, sleeping until next schedule Time: Mon Mar 12 01:53:00 2018
+
+[2018/03/11 05:24:05.070, jusched.exe (PID: 4704, TID: 4708), AllUtils.cpp:136 (logit)]
+	INFO: JavaUpdate NextSchedTime=Mon Mar 12 01:53:00 2018
+JavaUpdatelastSchedTime=Mon Mar 05 00:53:00 2018
+JavaUpdatenextSchedTime=Mon Mar 12 01:53:00 2018
+JavaUpdatesleeptime (sec=73735, hours=20, days=0.85)
+actual sleep time=73735000 msecs (20:28:55) for JavaUpdate
+
+[2018/03/11 19:38:26.842, jusched.exe (PID: 3916, TID: 1520), AllUtils.cpp:136 (logit)]
+	INFO: **************** Running jusched ****************
+
+[2018/03/11 19:43:31.738, jusched.exe (PID: 3916, TID: 1520), AllUtils.cpp:136 (logit)]
+	INFO: JavaUpdate : LastFinishTime is after LastScheduledTime, sleeping until next schedule Time: Mon Mar 12 01:53:00 2018
+
+[2018/03/11 19:43:31.738, jusched.exe (PID: 3916, TID: 1520), AllUtils.cpp:136 (logit)]
+	INFO: JavaUpdate NextSchedTime=Mon Mar 12 01:53:00 2018
+JavaUpdatelastSchedTime=Mon Mar 05 00:53:00 2018
+JavaUpdatenextSchedTime=Mon Mar 12 01:53:00 2018
+JavaUpdatesleeptime (sec=22169, hours=6, days=0.26)
+actual sleep time=22169000 msecs (6:09:29) for JavaUpdate
+
+[2018/03/12 01:53:00.973, jusched.exe (PID: 3916, TID: 1520), AllUtils.cpp:136 (logit)]
+	INFO: Timeout occured.  Run Java update now.
+
+[2018/03/12 01:53:00.974, jusched.exe (PID: 3916, TID: 1520), AllUtils.cpp:136 (logit)]
+	INFO: Time for a Java Update check.
+
+[2018/03/12 01:53:00.985, jusched.exe (PID: 3916, TID: 1520), UpdateCommon.cpp:713 (GetVersionXmlFileURL)]
+	INFO: Versions to check: 
+  - 1.8.0_40-b26
+
+[2018/03/12 01:53:14.536, jusched.exe (PID: 3916, TID: 1520), Locales.cpp:317 (Locale::preferredLanguages)]
+	INFO: PreferredUILanguages: Vista+
+[2018/03/12 01:53:14.539, jusched.exe (PID: 3916, TID: 1520), AllUtils.cpp:136 (logit)]
+	INFO: No cntry-lookup tag in map.xml
+[2018/03/12 01:53:14.540, jusched.exe (PID: 3916, TID: 1520), AllUtils.cpp:136 (logit)]
+	INFO: OVERRIDE SYSTEM VALUE==0:OS:win7-sp1,Arch:amd64,Version:1.8.0_40-b26,Locale:fr,Cntry:YY
+
+[2018/03/12 01:53:14.541, jusched.exe (PID: 3916, TID: 1520), AllUtils.cpp:136 (logit)]
+	INFO: https://javadl-esd-secure.oracle.com/update/1.8.0/2f38c3b165be4555a1fa6e98c45e0808/au-descriptor-1.8.0_161-b12.xml
+[2018/03/12 01:53:14.542, jusched.exe (PID: 3916, TID: 1520), AllUtils.cpp:136 (logit)]
+	INFO: No Updates available
+
+[2018/03/12 01:53:14.730, jusched.exe (PID: 3916, TID: 1520), AllUtils.cpp:136 (logit)]
+	INFO: Started UpdateChecker process Successfully:C:\Program Files (x86)\Common Files\Java\Java Update\jucheck.exe
+
+[2018/03/12 01:53:14.733, jusched.exe (PID: 3916, TID: 1520), AllUtils.cpp:136 (logit)]
+	INFO: JavaUpdate  [Critical] :  LastFinishTime is after LastScheduledTime, sleeping until next schedule Time: Fri Mar 16 01:53:00 2018
+
+[2018/03/12 01:53:14.734, jusched.exe (PID: 3916, TID: 1520), AllUtils.cpp:136 (logit)]
+	INFO: JavaUpdate [Critical] NextSchedTime=Fri Mar 16 01:53:00 2018
+JavaUpdate [Critical]lastSchedTime=Fri Mar 09 00:53:00 2018
+JavaUpdate [Critical]nextSchedTime=Fri Mar 16 01:53:00 2018
+JavaUpdate [Critical]sleeptime (sec=345586, hours=95, days=4.00)
+actual sleep time=345586000 msecs (95:59:46) for JavaUpdate [Critical]
+
+[2018/03/12 01:53:15.150, jucheck.exe (PID: 1184, TID: 3088), UpdateConf.cpp:1542 (UpdateSSV)]
+	INFO: UpdateSSV() - Begin Update
+[2018/03/12 01:53:15.311, jucheck.exe (PID: 1184, TID: 3088), Executor.cpp:147 (Executor::startExecution)]
+	INFO: Executor.exec(): "C:\Program Files (x86)\Java\jre1.8.0_40\bin\javaws.exe" -SSVBaselineUpdate

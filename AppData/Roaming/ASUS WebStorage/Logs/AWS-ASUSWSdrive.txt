@@ -1,0 +1,2 @@
+2018-03-12 01:44:48,958 [INFO ] ServerAPI-API_SelfActivation status:0
+2018-03-12 01:44:49,966 [INFO ] ServerAPI-API_SelfActivation ReturnState:1

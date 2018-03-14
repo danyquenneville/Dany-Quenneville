@@ -1,0 +1,133 @@
+03/11/2018 05:18:27 Checking for existence of Branding Active Setup stub...
+03/11/2018 05:18:27 InternetExplorerBrandGUID didn't exist: Branding component not installed
+03/11/2018 05:18:27 Inf Version is set to "11,00,9600,18858".
+03/11/2018 05:18:27 HKCU Active Setup Key not found.
+
+03/11/2018 05:18:27     COM initialized with S_FALSE success code.
+
+03/11/2018 05:18:27 Branding Internet Explorer...
+03/11/2018 05:18:27 Command line is "/mode:isp /peruser".
+
+03/11/2018 05:18:27 Global branding settings are:
+03/11/2018 05:18:27     Context is (0x01C00008) "Internet Content Providers, running from per-user stub";
+03/11/2018 05:18:27     Settings file is        "C:\Program Files (x86)\Internet Explorer\Signup\install.ins";
+03/11/2018 05:18:27     Target folder path is   "C:\Program Files (x86)\Internet Explorer\Signup".
+03/11/2018 05:18:27 Done.
+
+03/11/2018 05:18:27     About to clear previous branding...
+03/11/2018 05:18:27     Done.
+
+03/11/2018 05:18:27     Processing migration of old settings...
+03/11/2018 05:18:27     Done.
+
+03/11/2018 05:18:27     Processing wininet setup...
+03/11/2018 05:18:27     There are no connection settings to process!
+03/11/2018 05:18:27     Done.
+
+03/11/2018 05:18:27     Processing deletion of connection settings...
+03/11/2018 05:18:27     Existing connection settings weren't specified to be deleted!
+03/11/2018 05:18:27     Done.
+
+03/11/2018 05:18:27     Processing zones HKCU settings...
+03/11/2018 05:18:27     Done.
+
+03/11/2018 05:18:27     Processing local machine policies and restrictions...
+03/11/2018 05:18:27     There are no local machine *.inf files to process!
+03/11/2018 05:18:27     Done.
+
+03/11/2018 05:18:27     Processing current user policies and restrictions...
+03/11/2018 05:18:27     There are no current user *.inf files to process!
+03/11/2018 05:18:27     Done.
+
+03/11/2018 05:18:27     Processing legacy policies and restrictions...
+03/11/2018 05:18:27         There are no local machine *.inf files to process!
+03/11/2018 05:18:27         There are no current user *.inf files to process!
+03/11/2018 05:18:27     There are no legacy *.inf files to process!
+03/11/2018 05:18:27     Done.
+
+03/11/2018 05:18:27     Processing general customizations...
+03/11/2018 05:18:27     Done.
+
+03/11/2018 05:18:27     Processing Help->About customization...
+03/11/2018 05:18:27     Done.
+
+03/11/2018 05:18:27     Processing browser toolbar buttons...
+03/11/2018 05:18:27     There are no toolbar buttons to process!
+03/11/2018 05:18:27     Done.
+
+03/11/2018 05:18:27     Processing root certificates...
+03/11/2018 05:18:27     This feature is for ISPs only!
+03/11/2018 05:18:27     Done.
+
+03/11/2018 05:18:27     Processing default favorites and/or quick links...
+03/11/2018 05:18:27     Creating separate thread for processing default favorites...
+
+03/11/2018 05:18:27     COM initialized with S_OK success code.
+03/11/2018 05:18:27     Done.
+
+03/11/2018 05:18:27     Processing deletion of favorites and/or quick links...
+03/11/2018 05:18:27     None of the favorites folders were specified to be deleted!
+03/11/2018 05:18:27     Done.
+
+03/11/2018 05:18:27     Processing favorites...
+03/11/2018 05:18:27     There are no favorites to add!
+03/11/2018 05:18:27     Done.
+
+03/11/2018 05:18:27     Processing ordering of favorites...
+03/11/2018 05:18:27     Favorites will be put into the default position!
+03/11/2018 05:18:27     Done.
+
+03/11/2018 05:18:27     Processing quick links...
+03/11/2018 05:18:27     There are no quick links to add!
+03/11/2018 05:18:27     Done.
+
+03/11/2018 05:18:27     Processing ordering of quick links...
+03/11/2018 05:18:27     Quick Links will be put into the default position!
+03/11/2018 05:18:27     Done.
+
+03/11/2018 05:18:27     Processing connection settings...
+03/11/2018 05:18:27     There are no connection settings to process!
+03/11/2018 05:18:27     Done.
+
+03/11/2018 05:18:27     Processing TrustedPublisherLockdown restriction...
+03/11/2018 05:18:27     This restriction is not set!
+03/11/2018 05:18:27     Done.
+
+03/11/2018 05:18:27     Creating feeds...
+03/11/2018 05:18:27 Processing [Feeds] section...
+
+03/11/2018 05:18:28 Processing [FavoritesBar] section for Feeds...
+
+03/11/2018 05:18:28 Processing [FavoritesBar] section for WebSlices...
+
+03/11/2018 05:18:29     Done.
+
+03/11/2018 05:18:29     Creating start pages...
+03/11/2018 05:18:29     There are no start pages to add!
+03/11/2018 05:18:29     Done.
+
+03/11/2018 05:18:29     Creating search providers...
+03/11/2018 05:18:29     There are no search providers to add!
+03/11/2018 05:18:29     Done.
+
+03/11/2018 05:18:29     Installing Activities...
+03/11/2018 05:18:29     There are no Actitivies to Install!
+03/11/2018 05:18:29     Done.
+
+03/11/2018 05:18:29     Installing Unattend Favorite bar items...
+03/11/2018 05:18:29 Cannot Open Registry Key HKCU\SOFTWARE\Microsoft\Internet Explorer\AppliedUnattend [error=2]. It probably doesn't exist. Not an error.
+03/11/2018 05:18:29 ProcessUnattendFavBarItems processing favbaritems from location: SOFTWARE\Microsoft\Internet Explorer\UnattendBackup\ActiveSetup\FavoriteBarItems
+03/11/2018 05:18:29 No subkeys found.
+03/11/2018 05:18:29     Done.
+
+03/11/2018 05:18:29     Installing Unattend Activites...
+03/11/2018 05:18:29 Cannot Open Registry Key HKCU\SOFTWARE\Microsoft\Internet Explorer\AppliedUnattend [error=2]. It probably doesn't exist. Not an error.
+03/11/2018 05:18:29 ProcessUnattendActivities processing activities from location: SOFTWARE\Microsoft\Internet Explorer\UnattendBackup\ActiveSetup\Accelerators
+03/11/2018 05:18:29 No subkeys found.
+03/11/2018 05:18:29     Done.
+
+03/11/2018 05:18:29     Refreshing browser settings...
+03/11/2018 05:18:29     Broadcasting "Windows settings change" to all top level windows...
+03/11/2018 05:18:29     Done.
+03/11/2018 05:18:29 Done.
+03/11/2018 05:18:29 Done.

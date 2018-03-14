@@ -1,0 +1,24 @@
+2018-03-11 05:28:51:0889, [3960] log <> - --------->  Start PDF Plus
+2018-03-11 05:28:55:0087, [3960] log <> - Load and Initial Language
+2018-03-11 05:28:55:0227, [3960] log <> - Initial menu bar
+2018-03-11 05:28:55:0601, [3960] log <> - Initial build in tool
+2018-03-11 05:28:55:0898, [3960] log <> - Initial plugins
+2018-03-11 05:28:55:0913, [3960] log <> - Initial Delay load plugins: Search.zxt
+2018-03-11 05:28:55:0913, [3960] log <> - Initial Delay load plugins: Email.zxt
+2018-03-11 05:28:55:0913, [3960] log <> - Initial Delay load plugins: ZeonForm.zxt
+2018-03-11 05:28:55:0913, [3960] log <> - Initial Delay load plugins: PPKLite.zxt
+2018-03-11 05:28:55:0913, [3960] log <> - Initial Delay load plugins: ZDigSig.zxt
+2018-03-11 05:28:55:0913, [3960] log <> - Initial Delay load plugins: Z3D.zxt
+2018-03-11 05:28:55:0929, [3960] log <> - Initial Delay load plugins: Movie.zxt
+2018-03-11 05:29:00:0625, [3960] log <> - ZDigSig.zxt loaded by handler 8.
+2018-03-11 05:29:00:0625, [3960] log <> - ZeonForm.zxt loaded by operation 1.
+2018-03-11 05:29:00:0781, [3960] log <> - PPKLite.zxt loaded by operation 1.
+2018-03-11 05:29:00:0781, [3960] log <> - ZDigSig.zxt loaded by operation 1.
+2018-03-11 05:29:00:0781, [3960] log <> - ZeonForm.zxt removed.
+2018-03-11 05:29:00:0781, [3960] log <> - PPKLite.zxt removed.
+2018-03-11 05:29:00:0781, [3960] log <> - ZDigSig.zxt removed.
+2018-03-11 05:29:00:0828, [3960] log <> - File C:\eSupport\Manual\040C.pdf opened.
+2018-03-11 05:45:43:0555, [3960] log <> - Movie.zxt loaded by operation 4.
+2018-03-11 05:45:43:0555, [3960] log <> - Movie.zxt removed.
+2018-03-11 05:55:07:0945, [3960] log <> - File C:\eSupport\Manual\040C.pdf closed.
+2018-03-11 05:55:08:0164, [3960] log <> - --------->  End PDF Plus

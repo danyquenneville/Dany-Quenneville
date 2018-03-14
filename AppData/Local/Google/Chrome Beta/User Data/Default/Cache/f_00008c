@@ -1,0 +1,574 @@
+
+<!doctype html>
+<html lang="fr" class="fr">
+
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<script src="assets/js/modernizr.js"></script>
+
+		<!-- The title of your site -->
+		<title>Tim Hortons WiFi | CA - FR</title>
+
+		<!-- Always make sure to check the robots tag -->
+	    <meta name="description" content="Tim Hortons WiFi. Propuls&eacute; par Bell.">
+		<meta name="keywords" content="Tim Hortons WiFi">
+
+		<!-- Essential viewport settings -->
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+		<!-- styles needed by jScrollPane -->
+		<link type="text/css" href="assets/css/jquery.jscrollpane.css" rel="stylesheet" media="all" />
+		<!-- Main stylesheet -->
+	    <link rel="stylesheet" href="assets/css/reset.css">
+	    <link rel="stylesheet" href="assets/css/font.css">
+	    <link rel="stylesheet" href="assets/css/global.css">
+		<link rel="stylesheet" href="assets/css/assets.css">
+
+		<!-- Favicon -->
+		<link rel="shortcut icon" href="assets/images/shared/images/favicon.ico">
+	    <link rel="icon" type="image/png" href="assets/images/shared/images/favicon.png" />
+
+		<!--[if lt IE 9]>
+			<script src="assets/js/html5.js"></script>
+		<![endif]-->
+
+	    <!-- Javascript -->
+		<script type="text/javascript" src="assets/js/jquery-1.8.3.min.js"></script>
+
+	    <script type="text/javascript" src="assets/js/qsr7jyb.js"></script>
+		<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+	    <!--
+		<script type="text/javascript" src="assets/js/sxj5wxq.js"></script>
+	    <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+		-->
+
+		<!-- the jScrollPane script -->
+		<script type="text/javascript" src="assets/js/jquery.jscrollpane.js"></script>
+
+
+	</head>
+
+	<body onload="on_load();">
+
+		<a id="top"></a>
+
+		<!-- HEADER MOBILE - WIFI-->
+		<div class="heading hidden-desktop group" role="navigation">
+    		<div class="row static tight">
+
+		        <div class="span9 brand">
+		            <a href="http://www.timhortons.com/ca/fr/index.php" target="_blank">
+		            	<img src="assets/images/shared/images/logo-mobile.png" alt="Tim Hortons">
+		           	</a>
+		        </div><!-- brand -->
+
+		        <div id="accordion-nav" class="span3 menu-toggle text-accordion__title">
+		            <div class="menu-plus"></div>
+		        </div><!-- menu -->
+
+		        <div class="menu-contents text-accordion__content">
+					<ul class="header_flyout_nav_menu">
+
+		                <li>
+		                	<dl>
+		                		<a href="tdl_landing_en.asp">
+		                			<h3>English</h3>
+		                		</a>
+		                	</dl>
+		                </li>
+						<li>
+							<dl>
+								<a href="tdl_landing_fr.asp">
+									<h3>Fran&ccedil;ais</h3>
+								</a>
+							</dl>
+						</li>
+
+					</ul>
+		        </div>
+
+		    </div><!-- row -->
+		</div>
+
+		<!-- HEADER MOBILE - WIFI-->
+
+		<div class="header-wrapper sticky-wrapper is-sticky">
+		    <div class="header wrapper is-sticky">
+		        <div class="header-container">
+		        	<div class="nav-wrapper">
+
+		            <p class="home-site">
+		            	Visite <a href="http://www.timhortons.com/ca/fr/index.php" target="_blank">TimHortons.com</a>
+		            </p>
+
+		            <p class="language hidden-mobile">
+		            	<a href="tdl_landing_en.asp">English</a> - <strong>Fran&ccedil;ais</strong>
+		            </p>
+		            <img class="bell" src="assets/images/fr/images/wifi-logo-bell.png" alt="Propuls&eacute; par Bell" />
+					<img class="wifi" src="assets/images/en/images/wifi-logo-tim-hortons.png" alt="Tim Hortons Wifi" />
+
+
+		            </div>
+		        </div>
+		    </div>
+		</div>
+		<!-- /HEADER MOBILE - WIFI-->
+
+
+
+
+		<!-- MAIN PAGE CONTENT -->
+		<div class="wrapper">
+
+			<div class="spacer"></div>
+
+			<!-- Carousel -->
+			<div class="carousel">
+				<div class="carousel-container">
+
+					<script language="JavaScript">
+
+					// --- PARENT WINDOW CODE (OUTSIDE IFRAME): ---
+					// Note: Change the selector at the bottom of the code to target your iFrame.
+
+					String.prototype.toNumber = function() { return parseInt(this.replace(/\D/g, ''), 10); };
+					if (window.JSON && 'function' == typeof window.JSON.parse)
+						(function(d, r) {
+							var resizeIframe = function(a, b) {
+								if (a.data && 'string' == typeof a.data && !!a.data.match(r)) {
+									a = window.JSON.parse(a.data.replace(r, ''));
+									if (!a.height) a.height = 1500;
+									else if ('string' == typeof a.height) a.height = a.height.toNumber();
+									if (!a.src) a.src = '';
+									else if ('string' == typeof a.src) a.src = '[src="' + a.src + '"]';
+									b = d.querySelector('iframe' + a.src);
+									if (b) b.style.height = a.height + 'px';
+								}
+							};
+							if (window.attachEvent) window.attachEvent('onmessage', resizeIframe, true);
+							else if (window.addEventListener) window.addEventListener('message', resizeIframe, true);
+						}(document, /^resize_iframe/));
+
+					</script>
+
+					<div class="iframe-wrapper">
+			    		<iframe name="ext_content" class="iframe-content responsive-iframe frameborder0" id="iframe-responsive" src="http://www.timhortons.com/wifi/api/v2/TDL-QC-LON-01646/f/" scrolling="no" frameborder="0" width="100%">An iframe capable browser is required to view this web site.</iframe>
+					</div>
+
+
+				</div> <!-- container -->
+			</div>
+			<!-- /Carousel -->
+
+
+
+			<!-- Engagement -->
+			<div class="engagement">
+				<div class="engagement-container">
+
+			    	<a href="https://www.telltimhortons.com/survey/?locationCd=1646" target="_blank" class="engagement-entry" style="background:#fff url('assets/images/shared/images/wifi-engagement-bg.jpg') repeat-x;">
+			            <h3 style="color:#66040f;">Commentez notre service</h3>
+			            <img class="win" src="assets/images/shared/images/engagement-win.png">
+			            <p>Vos commentaires nous aident &agrave; rehausser l&#8217;exp&eacute;rience de nos invit&eacute;s.</p>
+			            <img class="arrow" src="assets/images/shared/images/engagement-arrow.png">
+					</a>
+
+			    	<a href="subscribe_fr.asp" target="_new" class="engagement-entry" style="background:#fff url('assets/images/shared/images/wifi-engagement-bg.jpg') repeat-x;">
+			            <h3 style="color:#66040f;">Signer</h3>
+			            <img class="win" src="assets/images/shared/images/engagement-sign-up.png">
+			            <p>Abonnez-vous &agrave; Tim Hortons &agrave; jour par courriel</p>
+			            <img class="arrow" src="assets/images/shared/images/engagement-arrow.png">
+					</a>
+
+				</div> <!-- container -->
+			</div>
+			<!-- /Engagement -->
+
+
+
+			<!-- Promo -->
+			<div class="promos">
+				<div class="iframe-wrapper">
+			    	<iframe name="ext_content" class="iframe-content responsive-iframe frameborder0" id="iframe-responsive-promos" src="http://www.timhortons.com/ca/fr/php/wifipromos.php" scrolling="no" frameborder="0" width="100%" height="">Il faut avoir un navigateur capable d√¢‚Ç¨‚Ñ¢utiliser les cadres en ligne (iframe) pour afficher le contenu de ce site Web.</iframe>
+				</div>
+			</div>
+			<!-- /Promo -->
+
+
+
+
+			<!-- Launchpad -->
+			<div class="launchpad">
+				<div class="launchpad-title-container">
+			    	<h4>Clavier</h4>
+			    </div>
+				<div class="launchpad-container">
+
+			        <div id="launchpad" class="widget">
+
+						<h3 class="search">Recherche</h3>
+			        	<form id="google" name="form1" method="get" action="http://www.google.ca/search?" target="_blank">
+			            	<input type="text" name="q" id="q" placeholder="RECHERCHE"/>
+			                <input type="submit" name="button" id="button" value="Submit" style="visibility:hidden" />
+			            </form>
+
+			            <form id="bing" name="form2" method="get" action="http://www.bing.com/search?" target="_blank">
+			            	<input type="text" name="q" id="q" placeholder="RECHERCHE" />
+			                <input type="submit" name="button" id="button" value="Submit" style="visibility:hidden" />
+			            </form>
+			    	</div>
+
+			      	<div id="email" class="widget clearfix">
+			        	<h3 class="email">Courriel</h3>
+			            <a href="http://www.bell.ca/bellmail" class="link" target="_blank">Sympatico Mail</a>
+			            <a href="http://hotmail.ca" class="link" target="_blank">MSN Hotmail</a><!-- pass country selection for .com / .ca -->
+			            <a href="http://gmail.com" class="link" target="_blank">Google Gmail</a>
+			            <a href="http://mail.yahoo.ca" class="link" target="_blank">Yahoo Mail</a><!-- pass country selection for .com / .ca -->
+			         </div>
+
+			         <div id="social" class="widget clearfix">
+			         	<h3 class="social">M&eacute;dias sociaux</h3>
+			            <a href="http://facebook.com/TimHortons" class="facebook icon" target="_blank"><img src="assets/images/shared/images/launchpad-facebook.png" alt="Facebook"></a>
+			            <a href="http://twitter.com/TimHortons" class="twitter icon" target="_blank"><img src="assets/images/shared/images/launchpad-twitter.png" alt="Twitter"></a>
+			            <a href="http://youtube.com/TimHortons" class="youtube icon" target="_blank"><img src="assets/images/shared/images/launchpad-youtube.png" alt="YouTube"></a>
+			            <a href="http://www.instagram.com/TimHortons" class="pinterest icon" target="_blank"><img src="assets/images/shared/images/launchpad-pinterest.png" alt="Pinterest"></a>
+			            <a href="http://plus.google.com" class="gplus icon" target="_blank"><img src="assets/images/shared/images/launchpad-googleplus.png" alt="Google Plus"></a>
+
+			         </div>
+
+			         <div id="news" class="widget">
+			         	<h3 class="news">Nouvelles</h3>
+			            <a href="http://cyberpresse.ca/" class="link" target="_blank">Cyberpresse.ca</a><br>
+						<a href="http://www.meteomedia.com/" class="link" target="_blank">MeteoMedia</a><br>
+						<a href="http://www.radio-canada.ca/" class="link" target="_blank">SRC Radio-Canada (CBC)</a><br>
+			         </div>
+
+					 <div id="entertainment" class="widget clearfix">
+			            <h3 class="sports">Sports et Divertissement</h3>
+			            <a href="http://tva.canoe.ca/" class="link" target="_blank">Canoe TVA</a><br>
+			            <a href="http://www.astral.com/fr/accueil" class="link" target="_blank">Astral Music</a><br>
+			            <a href="http://www.rds.ca/" class="link" target="_blank">RDS</a><br>
+			             <a href="http://www.nhl.com/fr/index.html" class="link" target="_blank">NHL.com</a>
+   			             <a href="http://fr.canoe.ca/sports/" class="link" target="_blank">Canoe Sports</a>
+			         </div>
+
+				</div> <!-- container -->
+			</div>
+			<!-- /Launchpad -->
+
+
+
+
+		</div>
+		<!-- /MAIN PAGE CONTENT -->
+
+
+
+		<!-- FOOTER -->
+		<a class="back-top"><img src="assets/images/shared/images/top.png" alt="top"></a>
+
+		<div class="footer-wrapper">
+		    <div class="wrapper">
+		    	<p>Pour des questions sur le WiFi, veuillez communiquer avec nous au 1-855-385-2539 &nbsp;|&nbsp; <a href="mailto:TimHortonsWiFi@timhortons.com">TimHortonsWiFi@timhortons.com</a> &nbsp;|&nbsp; &copy;2010-2015 Tim Hortons
+		        <br/><br/>
+		        Des conditions s'appliquent. Le service n'est pas optimis&eacute; pour tous les appareils mobiles. Selon le service choisi, les utilisateurs autoris&eacute;s auront acc&egrave;s &agrave;† la connexion pour deux heures ou pour une p&eacute;riode illimit&eacute;e dans le restaurant participant et ce, sans frais. Le service et/ou le contenu n'est pas offert dans tous les &eacute;tablissements. La rapidit&eacute; et la capacit&eacute; de la bande passante du service peuvent varier. Tim Hortons se r&eacute;serve le droit d'interrompre le service et/ou l'acc&egrave;s au service pour quelque motif que ce soit. Pour plus de d&eacute;tails, consulter les Conditions g&eacute;n&eacute;rales.</p>
+		        <div class="footer row">
+					<p>
+		            	<a id="terms" href="#footerterms" name="modal">Conditions de service</a>&nbsp;|&nbsp;
+		                <a href="#privacy" name="modal">Politique de Confidentialit&eacute; Bell</a>&nbsp;|&nbsp;
+		                <a href="http://www.timhortons.com/ca/fr/privacy.php" target="_blank">Politique de Confidentialit&eacute; Tim Hortons</a>
+		            </p>
+		      	</div><!-- row -->
+			</div><!-- wrapper -->
+		</div>
+		<!-- /FOOTER-->
+
+
+		<!-- MODALS -->
+		<div id="modal">
+
+			<div id="connected" class="pluslong window popup-sm">
+		    	<a href="#" class="close closebtn"></a>
+		        <h2>Vous &ecirc;tes actuellement connect&eacute; au<br> Tim Hortons WiFi</h2>
+				<br>
+		        <a href="#" class="close button" id="ok">OK</a>
+		    </div>
+
+
+		    <div id="privacy" class="window popup">
+         		<a href="#" class="close closebtn"></a>
+         		<h2>Politique de Confidentialit&eacute; Bell</h2>
+         		<div id="tcs">
+					<div class="scrollcontent">
+		                <p class="bold">Introduction</p>
+			<p>Les compagnies de Bell offrent une gamme compl&egrave;te de services qui r&eacute;pondent aux besoins des consommateurs en mati&egrave;re de communications, y compris des services sans fil, Internet, de t&eacute;l&eacute;vision satellite et IP, les services t&eacute;l&eacute;phoniques local et interurbain sur fil, ainsi que des services de radio, de t&eacute;l&eacute;vision et de m&eacute;dia num&eacute;rique.</p>
+
+			<p>Les compagnies de Bell se sont engag&eacute;es depuis longtemps &agrave; assurer l'exactitude, la confidentialit&eacute;, la s&eacute;curit&eacute; et la protection des renseignements personnels relatifs &agrave; leurs clients et &agrave; leurs employ&eacute;s, comme en t&eacute;moignent d'ailleurs les diverses politiques, ententes et r&egrave;gles de service en mati&egrave;re de protection des renseignements personnels et de la vie priv&eacute;e approuv&eacute;es au fil des ans par les organismes de r&eacute;glementation. Cet engagement se confirme aussi par la confiance et l'estime des clients et des employ&eacute;s &agrave; l'&eacute;gard de la gestion des renseignements personnels par les compagnies de Bell. </p>
+
+			<p>En mars 1996, l'Association canadienne de normalisation publiait &agrave; titre de Norme nationale de Canada le nouveau Code type sur la protection des renseignements personnels - CAN/CSA-Q830-96 (le  Code de la CSA ). En ao&ucirc;t 2000, les compagnies de Bell ont publi&eacute; le Code de protection des renseignements personnels de Bell (renomm&eacute; la Politique de Bell sur la protection de la vie priv&eacute;e) afin de confirmer leur volont&eacute; de se conformer aux principes &eacute;nonc&eacute;s dans le Code de la CSA et aux exigences de la Loi sur la protection des renseignements personnels et les documents &eacute;lectroniques, qui est entr&eacute;e en vigueur en 2001. </p>
+
+			<p>La Politique de Bell sur la protection de la vie priv&eacute;e est un &eacute;nonc&eacute; officiel des principes et lignes directrices relatifs aux exigences minimales en mati&egrave;re de protection des renseignements personnels concernant les clients et les employ&eacute;s des compagnies de Bell. Cette politique vise &agrave; &eacute;tablir des pratiques responsables et transparentes en mati&egrave;re de gestion des renseignements personnels, conform&eacute;ment &agrave; la nouvelle Norme nationale et &agrave; la nouvelle loi f&eacute;d&eacute;rale. </p>
+
+			<p>Les compagnies de Bell continueront de r&eacute;viser la Politique de Bell sur la protection de la vie priv&eacute;e et d'autres renseignements sur la protection de la vie priv&eacute;e rendus publics afin d'en assurer la pertinence et de l'adapter &agrave; l'&eacute;volution des technologies, du droit et des besoins des clients, des employ&eacute;s et des compagnies de Bell. La pr&eacute;sente version de la Politique de Bell sur la protection de la vie priv&eacute;e a &eacute;t&eacute; mise &agrave; jour en mai 2011. </p>
+
+			<p>Port&eacute;e et application Les dix principes qui constituent la Politique de Bell sur la protection de la vie priv&eacute;e sont interd&eacute;pendants et Bell doit les respecter dans leur totalit&eacute;. Chaque principe doit &ecirc;tre lu de concert avec les observations qui l'accompagnent. Comme l'autorise le Code de la CSA, les observations de la Politique de Bell sur la protection de la vie priv&eacute;e ont &eacute;t&eacute; adapt&eacute;es &agrave; la situation particuli&egrave;re des compagnies de Bell &agrave; l'&eacute;gard des renseignements personnels.</p>
+
+			<p>Port&eacute;e et application de la Politique de Bell sur la protection de la vie priv&eacute;e :</p>
+
+			<p>- La Politique de Bell sur la protection de la vie priv&eacute;e s'applique dans les diverses compagnies de Bell qui offrent des services de communications, y compris des services sans fil, Internet, de t&eacute;l&eacute;vision satellite et IP, les services t&eacute;l&eacute;phoniques local et interurbain sur fil, ainsi que des services de radio, de t&eacute;l&eacute;vision et de m&eacute;dia num&eacute;rique, de m&ecirc;me que dans nos divers points de vente au d&eacute;tail (et toute compagnie rempla&ccedil;ante des compagnies susmentionn&eacute;es, en raison d'une restructuration ou d'une r&eacute;organisation, notamment une fusion ou une acquisition.) La Politique de Bell sur la protection de la vie priv&eacute;e s'applique &eacute;galement aux activit&eacute;s de Bell Aliant au Qu&eacute;bec et en Ontario. Chaque fois que vous faites affaire avec l'une des compagnies de Bell ou avec tout mandataire agissant en notre nom, vous &ecirc;tes prot&eacute;g&eacute; par les droits et les mesures de s&eacute;curit&eacute; contenus dans la Politique de Bell sur la protection de la vie priv&eacute;e. </p>
+			<p>- La Politique de Bell sur la protection de la vie priv&eacute;e s'applique aux renseignements personnels que les compagnies de Bell recueillent, utilisent ou communiquent au sujet de leurs clients ou de leurs employ&eacute;s.</p>
+			<p>- La Politique de Bell sur la protection de la vie priv&eacute;e s'applique &agrave; la gestion des renseignements personnels sous toutes leurs formes - verbale, &eacute;lectronique ou &eacute;crite.</p>
+			<p>- La Politique de Bell sur la protection de la vie priv&eacute;e ne restreint pas la collecte, l'utilisation ou la communication des renseignements qui suivent par les compagnies de Bell :</p>
+			<p>a) les renseignements disponibles dans le public, comme le nom, l'adresse et le num&eacute;ro de t&eacute;l&eacute;phone d'un client, lorsque ces renseignements sont inscrits dans un annuaire ou disponibles par le service d'assistance-annuaire;</p>
+			<p>b) le nom, le titre ou l'adresse ou le num&eacute;ro de t&eacute;l&eacute;phone au travail d'un employ&eacute; d'une compagnie; ou</p>
+			<p>c) d'autres renseignements disponibles dans le public sur un client ou un employ&eacute; et d&eacute;crits dans les r&egrave;glements &eacute;tablis conform&eacute;ment &agrave; la Loi sur la protection des renseignements personnels et les documents &eacute;lectroniques</p>
+			<p>- La Politique de Bell sur la protection de la vie priv&eacute;e ne s'applique pas aux clients qui ne sont pas des personnes, comme les entreprises clientes; cependant, les renseignements recueillis de ces clients sont prot&eacute;g&eacute;s par d'autres politiques et pratiques de Bell et par les clauses contractuelles conclues avec ces clients.</p>
+			<p>- L'application de la Politique de Bell sur la protection de la vie priv&eacute;e est r&eacute;gie par les exigences et les dispositions de la Loi sur la protection des renseignements personnels et les documents &eacute;lectroniques, les r&egrave;glements aff&eacute;rents, ainsi que de toute loi, de tout r&egrave;glement, de tout tarif ou toute entente (comme les conventions collectives) qui s'applique ou d'une ordonnance d'un tribunal ou d'une demande l&eacute;gitime.</p>
+
+			<p>D&eacute;finitions </p>
+			<p><b>client -</b> personne qui</p>
+			<p>- utilise ou demande d'utiliser des produits ou services d'une compagnie de Bell;</p>
+			<p>- correspond avec une compagnie de Bell; ou</p>
+			<p>- participe &agrave; un concours commandit&eacute; par une compagnie de Bell</p>
+			<p><b>collecte -</b> action de recueillir, d'acqu&eacute;rir, de consigner ou d'obtenir des renseignements personnels de quelque source que ce soit, y compris aupr&egrave;s de tiers, par quelque moyen que ce soit.</p>
+			<p><b>communication -</b> action de r&eacute;v&eacute;ler des renseignements personnels &agrave; un tiers.</p>
+			<p><b>consentement -</b> acquiescement libre &agrave; la collecte, &agrave; l'utilisation et &agrave; la communication de renseignements personnels aux fins d&eacute;termin&eacute;es. Le consentement peut &ecirc;tre explicite ou implicite et peut &ecirc;tre donn&eacute; directement par la personne int&eacute;ress&eacute;e ou par un mandataire autoris&eacute;. Le consentement explicite peut &ecirc;tre donn&eacute; de vive voix, par des moyens &eacute;lectroniques ou par &eacute;crit. Toutefois, il doit toujours &ecirc;tre non &eacute;quivoque et ne pas obliger les compagnies de Bell &agrave; le d&eacute;duire. Le consentement implicite d&eacute;signe un consentement que l'on peut raisonnablement d&eacute;duire d'un acte ou d'une omission de la part d'une personne.</p>
+			<p><b>employ&eacute; -</b> employ&eacute; ou ancien employ&eacute; (y compris un retrait&eacute;) d'une compagnie de Bell ou personne qui a postul&eacute; un emploi dans une compagnie de Bell.</p>
+			<p><b>renseignement personnel -</b> renseignement concernant une personne identifiable, mais &agrave; l'exclusion des renseignements g&eacute;n&eacute;raux qui ne peuvent pas &ecirc;tre reli&eacute;s &agrave; une personne en particulier.</p>
+			<p>- Dans le cas d'unDans le cas d'un <b>client</b>, ces renseignements comprennent les donn&eacute;es sur le cr&eacute;dit, les dossiers de facturation, les relev&eacute;s des services et de l'&eacute;quipement, ainsi que toute plainte consign&eacute;e au dossier.</p>
+			<p>- Dans le cas d'un <b>employ&eacute;,</b>, ces renseignements comprennent les informations consign&eacute;es dans les dossiers personnels de l'employ&eacute;, les &eacute;valuations du rendement, ainsi que les renseignements sur l'&eacute;tat de sant&eacute; et les avantages sociaux.</p>
+			<p><b>tiers -</b> personne autre que le client ou son mandataire ou organisme qui ne fait pas partie des compagnies de Bell ou de leurs mandataires.</p>
+			<p><b>utilisation -</b> traitement, manipulation et gestion de renseignements personnels par les compagnies de Bell et leurs mandataires.</p>
+
+
+			<p>Principe 1 - Responsabilit&eacute; Les compagnies de Bell sont responsables des renseignements personnels dont elles ont la gestion et elles doivent d&eacute;signer au moins une personne qui devra s'assurer du respect des principes &eacute;nonc&eacute;s ci-dessous.</p>
+			<p>1.1 Il appartient &agrave; la haute direction des compagnies de Bell de veiller au respect des dispositions de la Politique de Bell sur la protection de la vie priv&eacute;e et de d&eacute;signer au moins une personne &agrave; cette fin. D'autres employ&eacute;s des compagnies de Bell peuvent aussi &ecirc;tre d&eacute;l&eacute;gu&eacute;s pour agir au nom des personnes d&eacute;sign&eacute;es ou pour s'occuper des activit&eacute;s quotidiennes de collecte et de traitement des renseignements personnels. </p>
+			<p>1.2 Les compagnies de Bell feront conna&icirc;tre, sur demande, le titre de toute personne d&eacute;sign&eacute;e pour s'assurer que les compagnies respectent la Politique de Bell sur la protection de la vie priv&eacute;e. </p>
+			<p>Les compagnies de Bell ont d&eacute;sign&eacute; l'Ombudsman de Bell pour la protection de la vie priv&eacute;e pour v&eacute;rifier le respect de la Politique de Bell sur la protection de la vie priv&eacute;e. On peut communiquer avec l'Ombudsman de Bell pour la protection de la vie priv&eacute;e &agrave; l'adresse suivante :</p>
+			<p>Bureau de l'ombudsman de Bell pour la protection de la vie priv&eacute;e 160, rue Elgin Ottawa (Ontario) K2P 2C4 <a href="mailto:privacy@bell.ca">privacy@bell.ca</a></p>
+			<p>1.3 Les compagnies de Bell sont responsables des renseignements personnels en leur possession ou dont elles ont garde, ce qui comprend les renseignements confi&eacute;s &agrave; un tiers pour des fins de traitement. Les compagnies de Bell prendront les moyens appropri&eacute;s pour assurer un degr&eacute; comparable de protection des renseignements en cours de traitement par un tiers (voir le principe 7). </p>
+			<p>1.4 Les compagnies de Bell ont mis en oeuvre des politiques et des pratiques destin&eacute;es &agrave; donner suite &agrave; la Politique de Bell sur la protection de la vie priv&eacute;e, entre autres : </p>
+			<p>a) la mise en oeuvre des proc&eacute;dures destin&eacute;es &agrave; prot&eacute;ger les renseignements personnels et &agrave; s'assurer que la compagnie respecte la Politique de Bell sur la protection de la vie priv&eacute;e;</p>
+			<p>b) la mise en place des proc&eacute;dures relatives &agrave; la r&eacute;ception et au traitement des demandes de renseignements ou des plaintes;</p>
+			<p>c) la formation et l'information des employ&eacute;s sur les politiques et les pratiques de la compagnie;</p>
+			<p>d) la r&eacute;daction de documents explicatifs sur les politiques et les pratiques de la compagnie.</p>
+
+			<p>Principe 2 - D&eacute;termination des fins de la collecte de renseignements personnels Les compagnies de Bell doivent d&eacute;terminer les fins pour lesquelles des renseignements personnels sont recueillis avant ou pendant la collecte. </p>
+			<p>2.1 Les compagnies de Bell recueillent des renseignements personnels uniquement pour les fins suivantes : </p>
+			<p>a) &eacute;tablir et maintenir des relations commerciales dignes de confiance avec les clients et assurer les services courants;</p>
+			<p>b) comprendre les besoins et les pr&eacute;f&eacute;rences des clients, et d&eacute;terminer leur admissibilit&eacute; aux produits et services;</p>
+			<p>c) recommander des produits et services particuliers qui r&eacute;pondent aux besoins des clients;</p>
+			<p>d) concevoir, am&eacute;liorer, commercialiser ou fournir des produits et des services;</p>
+			<p>e) g&eacute;rer et concevoir leurs activit&eacute;s op&eacute;rationnelles et commerciales, y compris les questions relatives au personnel et &agrave; l'embauche;</p>
+			<p>f) satisfaire aux exigences l&eacute;gales et r&eacute;glementaires.</p>
+			<p>Toute mention des fins d&eacute;termin&eacute;es renvoie aux fins mentionn&eacute;es dans le pr&eacute;sent &eacute;nonc&eacute; de principe.</p>
+			<p>2.2 Les compagnies de Bell doivent pr&eacute;ciser, de vive voix, par des moyens &eacute;lectroniques ou par &eacute;crit, les fins d&eacute;termin&eacute;es au client ou &agrave; l'employ&eacute; avant ou pendant la collecte des renseignements personnels. Sur demande, les personnes qui recueillent des renseignements personnels doivent expliquer ces fins ou indiquer au client ou &agrave; l'employ&eacute; de communiquer avec la personne d&eacute;sign&eacute;e au sein des compagnies de Bell, qui lui expliquera les fins d&eacute;termin&eacute;es. </p>
+			<p>2.3 Sauf lorsque la loi les y oblige, les compagnies de Bell n'utiliseront pas ou ne communiqueront pas pour une nouvelle fin des renseignements personnels d&eacute;j&agrave; recueillis avant d'avoir d'abord d&eacute;fini et consign&eacute; la nouvelle fin et obtenu le consentement du client ou de l'employ&eacute;. </p>
+
+			<p>Principe 3 - Consentement &agrave; la collecte, &agrave; l'utilisation ou &agrave; la communication de renseignements personnels Le client ou l'employ&eacute; doit &ecirc;tre inform&eacute; et consentir &agrave; toute collecte, utilisation ou communication de renseignements personnels qui le concernent, &agrave; moins qu'il ne soit pas appropri&eacute; de le faire. </p>
+			<p>3.1 Dans certaines circonstances, il est possible de recueillir, d'utiliser et de communiquer des renseignements &agrave; l'insu de la personne concern&eacute;e et sans son consentement. Par exemple, les compagnies de Bell peuvent recueillir ou utiliser des renseignements personnels &agrave; l'insu de la personne concern&eacute;e ou sans son consentement, si cela sert manifestement l'int&eacute;r&ecirc;t de la personne concern&eacute;e et qu'il est impossible d'obtenir son consentement dans un d&eacute;lai appropri&eacute;, par exemple, lorsqu'il s'agit d'une personne mineure, gravement malade ou atteinte d'incapacit&eacute; mentale. </p>
+			<p>Les compagnies de Bell peuvent aussi recueillir, utiliser ou communiquer des renseignements personnels &agrave; l'insu de la personne concern&eacute;e ou sans son consentement, si le fait de demander le consentement de la personne concern&eacute;e risque d'aller &agrave; l'encontre du but vis&eacute; par la collecte des renseignements, par exemple, dans le cas d'une enqu&ecirc;te sur un manquement &agrave; un contrat ou sur une infraction &agrave; une loi f&eacute;d&eacute;rale ou provinciale.</p>
+			<p>Les compagnies de Bell peuvent aussi utiliser ou communiquer des renseignements personnels &agrave; l'insu de la personne concern&eacute;e ou sans son consentement en cas d'urgence, lorsque la vie, la sant&eacute; ou la s&eacute;curit&eacute; d'une personne est menac&eacute;e.</p>
+			<p>Les compagnies de Bell peuvent communiquer des renseignements personnels &agrave; l'insu de la personne concern&eacute;e ou sans son consentement &agrave; un avocat qui repr&eacute;sente les compagnies, afin de percevoir une cr&eacute;ance, respecter une assignation, un mandat ou une autre ordonnance d'un tribunal ou lorsque la loi l'exige.</p>
+			<p>3.2 Pour obtenir le consentement de la personne concern&eacute;e, les compagnies de Bell feront des d&eacute;marches raisonnables pour s'assurer que le client ou l'employ&eacute; est inform&eacute; des fins pour lesquelles les renseignements personnels seront utilis&eacute;s ou communiqu&eacute;s. Ces fins seront &eacute;nonc&eacute;es de fa&ccedil;on que le client ou l'employ&eacute; puisse raisonnablement les comprendre. </p>
+			<p>3.3 R&egrave;gle g&eacute;n&eacute;rale, les compagnies de Bell obtiendront le consentement de la personne concern&eacute;e au moment de recueillir et de communiquer des renseignements personnels. Toutefois, elles peuvent aussi obtenir ce consentement apr&egrave;s la collecte des renseignements personnels, mais avant de les utiliser ou de les communiquer pour une nouvelle fin.</p>
+			<p>3.4 Les compagnies de Bell demanderont aux clients de consentir &agrave; la collecte, &agrave; l'utilisation ou &agrave; la communication de renseignements personnels, &agrave; titre de condition de fourniture d'un produit ou d'un service, dans la mesure seulement o&ucirc; la collecte, l'utilisation ou la communication des renseignements est n&eacute;cessaire &agrave; l'ex&eacute;cution des fins d&eacute;termin&eacute;es. Les compagnies de Bell demanderont aux employ&eacute;s de consentir &agrave; la collecte, &agrave; l'utilisation ou &agrave; la communication de renseignements personnels raisonnablement n&eacute;cessaires &agrave; l'&eacute;tablissement et &agrave; la gestion de la relation avec les employ&eacute;s.</p>
+			<p>3.5 Pour d&eacute;terminer la m&eacute;thode de consentement appropri&eacute;e, les compagnies de Bell tiendront compte de la sensibilit&eacute; des renseignements personnels et des attentes raisonnables de leurs clients et employ&eacute;s.</p>
+			<p>3.6 R&egrave;gle g&eacute;n&eacute;rale, l'utilisation des produits et des services par un client ou l'acceptation d'un poste ou d'avantages sociaux par un employ&eacute; constitue un consentement implicite &agrave; la collecte, &agrave; l'utilisation et &agrave; la communication de renseignements personnels, aux fins d&eacute;termin&eacute;es, par les compagnies de Bell.</p>
+			<p>3.7 Un client ou un employ&eacute; peut retirer son consentement en tout temps, sous r&eacute;serve des restrictions pr&eacute;vues par une loi ou un contrat et d'un d&eacute;lai raisonnable. Les clients et les employ&eacute;s peuvent communiquer avec les compagnies de Bell pour obtenir plus de renseignements sur les cons&eacute;quences d'un tel retrait.</p>
+
+		    <p>Principe 4 - Limitation de la collecte de renseignements personnelsLes compagnies de Bell ne peuvent recueillir que les renseignements personnels n&eacute;cessaires aux fins d&eacute;termin&eacute;es. </p>
+			<p>Les compagnies de Bell doivent proc&eacute;der de fa&ccedil;on honn&ecirc;te et licite.</p>
+			<p>4.1 Les compagnies de Bell recueillent des renseignements personnels principalement aupr&egrave;s de leurs clients ou de leurs employ&eacute;s.</p>
+			<p>4.2 Les compagnies de Bell peuvent aussi recueillir des renseignements personnels aupr&egrave;s d'autres sources, y compris des agences d'&eacute;valuation du cr&eacute;dit, des employeurs ou des r&eacute;f&eacute;rences personnelles, ou aupr&egrave;s de tiers qui pr&eacute;tendent &ecirc;tre autoris&eacute;s &agrave; communiquer ces renseignements.</p>
+
+			<p>Principe 5 - Limitation de l'utilisation, de la communication et de la conservation des renseignements personnels Les compagnies de Bell ne doivent pas utiliser ou communiquer des renseignements personnels &agrave; des fins diff&eacute;rentes de celles auxquelles ils ont &eacute;t&eacute; recueillis &agrave; moins que la personne concern&eacute;e n'y consente ou que la loi ne l'exige. Les compagnies de Bell doivent conserver les renseignements personnels seulement pendant la p&eacute;riode n&eacute;cessaire pour la r&eacute;alisation des fins d&eacute;termin&eacute;es. </p>
+			<p>5.1 Dans certaines circonstances, les renseignements personnels peuvent &ecirc;tre recueillis, utilis&eacute;s ou communiqu&eacute;s &agrave; l'insu de la personne concern&eacute;e ou sans son consentement (voir le principe 3.1).</p>
+			<p>5.2 Les compagnies de Bell peuvent aussi communiquer des renseignements personnels sur un client &agrave; :</p>
+			<p>a) une autre compagnie de t&eacute;l&eacute;communications, pour assurer l'efficience et l'efficacit&eacute; de la fourniture des services de t&eacute;l&eacute;communications;</p>
+			<p>b) une entreprise qui participe &agrave; la fourniture de services de t&eacute;l&eacute;communications ou de services d'annuaires au client;</p>
+			<p>c) une autre personne, pour la conception, l'am&eacute;lioration, la commercialisation ou la fourniture d'un produit ou d'un service des compagnies de Bell;</p>
+			<p>d) un mandataire dont les services ont &eacute;t&eacute; retenus par les compagnies de Bell afin d'&eacute;valuer la solvabilit&eacute; d'un client ou de recouvrer le compte d'un client;</p>
+			<p>e) des distributeurs de cartes de cr&eacute;dit et des agences d'&eacute;valuation du cr&eacute;dit;</p>
+			<p>f) une personne qui, de l'avis des compagnies de Bell, demande les renseignements &agrave; titre de mandataire du client;</p>
+			<p>g) un ou plusieurs tiers, lorsque le client consent &agrave; la communication ou lorsque la communication est exig&eacute;e en vertu de la loi.<p>
+			<p>5.3 Dans certains cas, les renseignements personnels recueillis par les compagnies de Bell peuvent &ecirc;tre conserv&eacute;s et trait&eacute;s dans d'autres pays que le Canada aux fins de la fourniture de service ou de soutien aux activit&eacute;s de Bell, et peuvent donc &ecirc;tre assujettis &agrave; la juridiction de ces pays. N&eacute;anmoins, ces compagnies qui nous fournissent ces services ont l'obligation de prot&eacute;ger de tels renseignements. Par exemple, les renseignements sont g&eacute;n&eacute;ralement fournis seulement apr&egrave;s que des contrats d&eacute;taill&eacute;s ont &eacute;t&eacute; &eacute;tablis avec les compagnies qui nous fournissent ces services. De plus, les renseignements peuvent &ecirc;tre utilis&eacute;s seulement aux fins de la fourniture des services en question. Lorsqu'elles impartissent certaines fonctions, les compagnies de Bell s'efforcent de r&eacute;duire au maximum les renseignements personnels conserv&eacute;s ou trait&eacute;s dans un pays autre que le Canada. Chaque fois que c'est possible, les compagnies de Bell transforment en donn&eacute;es anonymes tout renseignement personnel conserv&eacute; ou trait&eacute; dans un pays autre que le Canada, de fa&ccedil;on que les donn&eacute;es ne puissent &ecirc;tre associ&eacute;es &agrave; des personnes identifiables. (Voir Principe 7 - Mesures de s&eacute;curit&eacute;)</p>
+			<p>5.4 Les compagnies de Bell peuvent communiquer des renseignements personnels au sujet de leurs employ&eacute;s :</p>
+			<p>a) pour leurs activit&eacute;s courantes de gestion du personnel et des avantages sociaux;</p>
+			<p>b) afin de fournir des r&eacute;f&eacute;rences sur des employ&eacute;s actuels ou ant&eacute;rieurs, &agrave; la suite de demandes faites par des employeurs en puissance;</p>
+			<p>c) lorsque la communication des renseignements est exig&eacute;e en vertu de la loi.</p>
+			<p>5.5 Seuls les employ&eacute;s des compagnies de Bell dont les activit&eacute;s commerciales ou dont les t&acirc;ches habituelles l'exigent ont acc&egrave;s aux renseignements personnels sur les clients et les employ&eacute;s.</p>
+			<p>5.6 Les compagnies de Bell conservent les renseignements personnels seulement pendant la p&eacute;riode n&eacute;cessaire ou utile pour les fins d&eacute;termin&eacute;es ou selon les exigences de la loi. Selon les circonstances, lorsque des renseignements personnels ont &eacute;t&eacute; utilis&eacute;s pour prendre une d&eacute;cision au sujet d'un client ou d'un employ&eacute;, les compagnies de Bell conserveront soit les renseignements proprement dits, soit une explication des motifs de la d&eacute;cision pendant une p&eacute;riode suffisante pour que le client ou l'employ&eacute; puisse avoir acc&egrave;s &agrave; ces renseignements ou &agrave; ces motifs.</p>
+			<p>5.7 Les compagnies de Bell &eacute;tabliront des mesures de contr&ocirc;le, des &eacute;ch&eacute;anciers et des pratiques raisonnables et syst&eacute;matiques relativement &agrave; la conservation et &agrave; la destruction des renseignements personnels et des dossiers qui ne sont plus n&eacute;cessaires ou pertinents pour les fins d&eacute;termin&eacute;es ou qui ne sont plus exig&eacute;s en vertu de la loi. Ces renseignements doivent &ecirc;tre d&eacute;truits, effac&eacute;s ou d&eacute;personnalis&eacute;s.</p>
+
+			<p>Principe 6 - Exactitude des renseignements personnels Les renseignements personnels doivent &ecirc;tre aussi exacts, complets et &agrave; jour que l'exigent les fins pour lesquelles ils sont utilis&eacute;s. </p>
+			<p>6.1 Les renseignements personnels utilis&eacute;s par les compagnies de Bell doivent &ecirc;tre assez exacts, complets et &agrave; jour pour r&eacute;duire au minimum la possibilit&eacute; que des renseignements erron&eacute;s soient utilis&eacute;s pour prendre une d&eacute;cision au sujet d'un client ou d'un employ&eacute;.</p>
+			<p>6.2 Les compagnies de Bell feront la mise &agrave; jour des renseignements personnels sur les clients et les employ&eacute;s seulement lorsque n&eacute;cessaire pour satisfaire aux fins d&eacute;termin&eacute;es ou sur un avis en ce sens de la part de la personne concern&eacute;e.</p>
+
+			<p>Principe 7 - Mesures de s&eacute;curit&eacute; Les compagnies de Bell doivent prot&eacute;ger les renseignements personnels au moyen de mesures de s&eacute;curit&eacute; correspondant &agrave; leur degr&eacute; de sensibilit&eacute;. </p>
+			<p>7.1 Les compagnies de Bell doivent prot&eacute;ger les renseignements personnels contre certains risques comme la perte ou le vol, la consultation, la communication, la copie, l'utilisation, la modification ou la destruction non autoris&eacute;es, en prenant les mesures de s&eacute;curit&eacute; appropri&eacute;s. Elles doivent prot&eacute;ger les renseignements personnels, quelle que soit la forme sous laquelle ils sont conserv&eacute;s.</p>
+			<p>7.2 Les compagnies de Bell doivent prot&eacute;ger les renseignements personnels communiqu&eacute;s &agrave; des tiers aux termes d'ententes contractuelles &eacute;non&ccedil;ant le caract&egrave;re confidentiel de ces renseignements, les fins auxquelles ils sont destin&eacute;s, les limites quant au nombre de personnes dont les fonctions exigent l'acc&egrave;s aux renseignements, et les mesures de s&eacute;curit&eacute; physiques et proc&eacute;durales n&eacute;cessaires pour prot&eacute;ger ces renseignements.</p>
+			<p>7.3 Tous les employ&eacute;s des compagnies de Bell qui ont acc&egrave;s &agrave; des renseignements personnels doivent &ecirc;tre tenus, &agrave; titre de condition d'emploi, de respecter le caract&egrave;re confidentiel de ces renseignements personnels.</p>
+
+			<p>Principe 8 - Transparence des politiques et des pratiques Les compagnies de Bell doivent mettre &agrave; la disposition des clients et des employ&eacute;s des renseignements pr&eacute;cis sur leurs politiques et leurs pratiques de gestion des renseignements personnels. </p>
+			<p>8.1 Les compagnies de Bell doivent faciliter la compr&eacute;hension de leurs politiques et de leurs pratiques, notamment par ce qui suit :</p>
+			<p>a) la fonction et l'adresse de chaque personne charg&eacute;e de s'assurer que les compagnies respectent la Politique de Bell sur la protection de la vie priv&eacute;e (voir Principe 1.2) et &agrave; qui il faut acheminer les plaintes ou les demandes de renseignements (voir la section ci-dessous sur la mani&egrave;re de communiquer avec nous);</p>
+			<p>b) le moyen d'avoir acc&egrave;s aux renseignements personnels que poss&egrave;dent les compagnies (voir Principe 9);</p>
+			<p>c) une description du genre de renseignements personnels que poss&egrave;dent les compagnies, y compris une explication g&eacute;n&eacute;rale de l'usage auquel ils sont destin&eacute;s.</p>
+			<p>8.2 Les compagnies de Bell diffuseront des informations afin d'aider les clients et les employ&eacute;s &agrave; exercer leurs droits quant &agrave; l'utilisation des renseignements personnels qui les concernent, ainsi que des informations sur les services de protection de la vie priv&eacute;e offerts par les compagnies.</p>
+
+			<p>Principe 9 - Acc&egrave;s aux renseignements personnels par les clients et les employ&eacute;s Les compagnies de Bell doivent informer un client ou un employ&eacute; qui en fait la demande de l'existence de renseignements personnels qui le concernent, de l'usage qui en est fait et du fait qu'ils ont &eacute;t&eacute; communiqu&eacute;s &agrave; des tiers, et lui permettre de consulter ces renseignements. </p>
+			<p>9.1 Sur demande, les compagnies de Bell fourniront au client ou &agrave; l'employ&eacute; une occasion raisonnable de consulter les renseignements personnels compris dans son dossier. Les renseignements personnels doivent &ecirc;tre fournis d'une mani&egrave;re compr&eacute;hensible, dans un d&eacute;lai raisonnable et &agrave; un co&ucirc;t minime sinon nul pour la personne concern&eacute;e.</p>
+			<p>9.2 Dans certaines situations, il peut &ecirc;tre impossible aux compagnies de Bell de permettre &agrave; un client ou &agrave; un employ&eacute; de consulter tous les renseignements personnels qu'elles poss&egrave;dent &agrave; son sujet. Par exemple, les compagnies de Bell peuvent ne pas offrir l'acc&egrave;s aux renseignements si cela risque de r&eacute;v&eacute;ler des renseignements personnels sur un tiers ou risque vraisemblablement de mettre en p&eacute;ril la vie ou la s&eacute;curit&eacute; d'une autre personne. De plus, les compagnies de Bell peuvent ne pas offrir l'acc&egrave;s aux renseignements si la communication permettait de r&eacute;v&eacute;ler des informations commerciales confidentielles, si les renseignements sont prot&eacute;g&eacute;s par le secret professionnel d'un avocat, si les renseignements ont &eacute;t&eacute; obtenus au terme d'un processus officiel de r&egrave;glement d'un diff&eacute;rend, ou encore si les renseignements ont &eacute;t&eacute; recueillis pendant une enqu&ecirc;te sur un manquement &agrave; un contrat ou sur une infraction &agrave; une loi f&eacute;d&eacute;rale ou provinciale. Sur demande, les compagnies de Bell indiqueront le motif du refus de l'acc&egrave;s aux renseignements personnels.</p>
+			<p>9.3 Sur demande, les compagnies de Bell informeront la personne concern&eacute;e de l'utilisation et de la communication de renseignements personnels et, dans la mesure du possible, lui indiqueront la source des renseignements. En ce qui concerne la fourniture d'un relev&eacute; de communication de renseignements personnels, les compagnies de Bell fourniront une liste des organismes auxquels elles peuvent avoir communiqu&eacute; des renseignements personnels au sujet de la personne, lorsqu'il n'est pas possible de fournir une liste pr&eacute;cise.</p>
+			<p>9.4 Afin d'assurer la protection des renseignements personnels, un client ou un employ&eacute; peut &ecirc;tre tenu de fournir des renseignements suffisants pour que les compagnies de Bell puissent rendre compte de l'existence, de l'utilisation et de la communication de renseignements personnels et autoriser l'acc&egrave;s au dossier de cette personne. L'information ainsi fournie doit servir uniquement &agrave; cette fin.</p>
+			<p>9.5 Les compagnies de Bell corrigeront ou compl&eacute;teront promptement tous les renseignements personnels jug&eacute;s inexacts ou incomplets. Tout diff&eacute;rend non r&eacute;gl&eacute; relatif &agrave; l'exactitude ou &agrave; l'exhaustivit&eacute; des renseignements doit &ecirc;tre consign&eacute; dans le dossier de la personne concern&eacute;e. S'il y a lieu, les compagnies de Bell doivent communiquer tout renseignement modifi&eacute; aux tiers qui ont acc&egrave;s &agrave; ces renseignements personnels ou leur faire part de l'existence de diff&eacute;rends non r&eacute;gl&eacute;s.</p>
+			<p>9.6 Un client peut obtenir des informations ou demander de consulter son dossier personnel en s'adressant &agrave; un repr&eacute;sentant d&eacute;sign&eacute; &agrave; l'un des bureaux du Service &agrave; la client&egrave;le des compagnies de Bell.</p>
+			<p>9.7 Un employ&eacute; peut obtenir des informations ou demander de consulter son dossier personnel en s'adressant &agrave; son surveillant imm&eacute;diat de la compagnie de Bell.</p>
+
+			<p>Principe 10 - Plainte contre le non-respect des principes Un client ou un employ&eacute; doit pouvoir se plaindre du non-respect des principes &eacute;nonc&eacute;s ci-dessus en communiquant avec la ou les personnes responsables de faire respecter la Politique de Bell sur la protection de la vie priv&eacute;e au sein des compagnies de Bell. </p>
+			<p>10.1 Les compagnies de Bell doivent &eacute;tablir des m&eacute;canismes pour recevoir toutes les plaintes et toutes les demandes de renseignements concernant leurs politiques et leurs pratiques en mati&egrave;re de gestion des renseignements personnels et y donner suite.</p>
+			<p>10.2 Les compagnies de Bell doivent informer leurs clients et leurs employ&eacute;s de l'existence de ces m&eacute;canismes ainsi que de l'existence de m&eacute;canismes de plainte (voir la section ci-dessous sur la mani&egrave;re de communiquer avec nous).</p>
+			<p>10.3 Les personnes responsables du respect de la Politique de Bell sur la protection de la vie priv&eacute;e peuvent solliciter un avis aupr&egrave;s d'un organisme ext&eacute;rieur, s'il y a lieu, avant de r&eacute;pondre de fa&ccedil;on d&eacute;finitive aux plaintes d&eacute;pos&eacute;es par des particuliers.</p>
+			<p>10.4 Les compagnies de Bell doivent faire enqu&ecirc;te sur toutes les plaintes relatives au respect de la Politique de Bell sur la protection de la vie priv&eacute;e. Si une plainte est jug&eacute;e fond&eacute;e, la compagnie prendra les mesures appropri&eacute;es, y compris modifier ses politiques et ses pratiques, au besoin. Le client ou l'employ&eacute; sera inform&eacute; du r&eacute;sultat de l'enqu&ecirc;te relative &agrave; sa plainte.</p>
+
+
+			<p><b>Des questions ou des pr&eacute;occupations concernant la confidentialit&eacute; de vos renseignements?</b></p>
+			<p>Pour avoir plus d'informations sur l'engagement des compagnies de Bell en mati&egrave;re de protection des renseignements personnels, vous pouvez communiquer avec l'une ou l'autre des compagnies de Bell, au num&eacute;ro indiqu&eacute; sur votre facture mensuelle, ou visitez nos pages sur la protection de la vie priv&eacute;e &agrave; l'adresse <a href="http://soutien.bell.ca/Service_a_la_clientele/Securite_et_confidentialite/Bell_et_votre_vie_privee" target="_blank">www.bell.ca/privacy.</a></p>
+			<p>Si vous avez des questions ou des pr&eacute;occupations concernant la confidentialit&eacute; de vos renseignements, n'h&eacute;sitez pas &agrave; <a href="http://soutien.bell.ca/Service_a_la_clientele/Pour_nous_joindre" target="_blank">communiquer avec nous</a>; un conseiller au service &agrave; la client&egrave;le sera heureux de vous aider.</p>
+			<p>Si vous avez encore des pr&eacute;occupations concernant la confidentialit&eacute; de vos renseignements, &eacute;crivez &agrave; :</p>
+			<p>Bureau de l'ombudsman de Bell pour la protection de la vie priv&eacute;e 160, rue Elgin Ottawa (Ontario) K2P 2C4 <a href="mailto:privacy@bell.ca">privacy@bell.ca</a></p>
+			<p>Si le probl&egrave;me persiste apr&egrave;s l'intervention de l'ombudsman, vous pouvez contacter :</p>
+			<p>Commissariat &agrave; la protection de la vie priv&eacute;e du Canada 112, rue Kent, Place de Ville Tour B, 3e &eacute;tage Ottawa (Ontario) K1A 1H3 1 800 282-1376 <a href="http://www.priv.gc.ca/" target="_blank">www.priv.gc.ca</a></p>
+			<p>Pour obtenir des exemplaires du Code type sur la protection des renseignements personnels de la CSA :</p>
+			<p>Association canadienne de normalisation 5060 Spectrum Way, Suite 100 Mississauga, Ontario L4W 5N6 <a href="http://www.csa.ca/cm/ca/fr/home" target="_blank">www.csa.ca</a></p>
+			<p>&#169; Bell Canada, 2012. Tous droits r&eacute;serv&eacute;s.</p>
+	                    
+			<p>&nbsp;</p>
+
+					</div>
+          		</div>
+      		</div>
+
+
+      		<div id="subscribed" class="pluslong window popup-sm">
+         		<a href="#" class="close closebtn"></a>
+         		<h2>Merci de votre inscription &agrave;† nos mises &agrave;† jour par e-mail Tim Hortons.</h2>
+         		<a href="#" class="close button" id="ok">Ok</a>
+      		</div>
+
+
+		    <div id="footerterms" class="window popup">
+         		<a href="#" class="close closebtn"></a>
+         		<h2>Conditions du service WiFi de Tim Hortons </h2>
+         		<div id="tcs">
+
+					<div class="scrollcontent">
+	
+		<p class="bold">LISEZ ATTENTIVEMENT CES CONDITIONS, QUI VOUS IMPOSENT DES OBLIGATIONS ET RESTRICTIONS.</p>
+		<p>1.	G&eacute;n&eacute;ralit&eacute;s
+			<br />
+    Le service Wi-Fi Tim Hortons est un service d'acc&egrave;s Internet fourni par Bell Mobilit&eacute; Inc. (&laquo;&nbsp;Bell Mobilit&eacute;&nbsp;&raquo;) qui vous fournit un acc&egrave;s &agrave; Internet &agrave; partir de points d'acc&egrave;s sans fil (chacun appel&eacute; &laquo;&nbsp;point d'acc&egrave;s sans fil&nbsp;&raquo;) utilisant un ou plusieurs protocoles 802.11a/b/g/n, couramment appel&eacute;s &laquo;&nbsp;Wi-Fi&nbsp;&raquo; (le &laquo;&nbsp;service&nbsp;&raquo;). Ces &laquo;&nbsp;conditions&nbsp;&raquo; entre vous et Bell Mobilit&eacute; d&eacute;finissent les obligations et responsabilit&eacute;s associ&eacute;es &agrave; l'utilisation du service. Vous &ecirc;tes exclusivement responsable de l'int&eacute;gralit&eacute; de l'acc&egrave;s au service et de son utilisation, y compris la violation de ces conditions, par vous ou n'importe quel utilisateur de votre appareil. Aux fins de ces conditions, &laquo;&nbsp;vous&nbsp;&raquo; d&eacute;signe vous et chaque personne que vous autorisez &agrave; utiliser le service. En acc&eacute;dant au service, vous acceptez ces conditions. Si vous ne souhaitez pas &ecirc;tre li&eacute; &agrave; ces conditions, vous ne pouvez pas acc&eacute;der au service ni utiliser le service. Bell Mobilit&eacute; peut modifier ces conditions n'importe quand, sans votre consentement ou autorisation, y compris la modification ou la r&eacute;siliation du service, ou n'importe quel de ses composants. Bell Mobilit&eacute; vous avisera de toute modification apport&eacute;e &agrave; ces conditions en publiant un avis relatif aux conditions modifi&eacute;es sur la page d'ouverture de session ou d'accueil qui s'affiche lorsque vous acc&eacute;dez pour la  premi&egrave;re fois au service &agrave; partir d'un &laquo;&nbsp;point d'acc&egrave;s sans fil&nbsp;&raquo. Vous convenez de prendre connaissance des conditions en vigueur de temps &agrave; autre afin d'&ecirc;tre au courant de toute modification apport&eacute;e et votre utilisation continue du service sera consid&eacute;r&eacute;e comme votre acceptation des conditions modifi&eacute;es. Si vous n'acceptez aucune modification de ces conditions, vous convenez que vous ne pourrez pas utiliser le service.
+		</p>
+		<p >
+			<strong>2. Indemnisation</strong>
+			<br />
+			Vous convenez d'indemniser Bell Mobilit&eacute;, ses soci&eacute;t&eacute;s affili&eacute;es, agents et fournisseurs de toutes les responsabilit&eacute;s et d&eacute;penses li&eacute;es &agrave; toute infraction &agrave; ces conditions par vous ou tout utilisateur de votre appareil, ou en rapport avec votre ou son utilisation du service. En utilisant le service, vous ne devez pas publier, transmettre ou autrement diffuser des renseignements qui constituent ou pr&eacute;conisent une conduite qui constituerait une infraction criminelle ou donnerait lieu &agrave; des poursuites civiles, ni autrement utiliser le service de mani&egrave;re contraire &agrave; la loi ou aux politiques en vigueur de Bell Mobilit&eacute;, ou qui servent &agrave; emp&ecirc;cher ou limiter l'utilisation du service ou d'Internet par tout autre utilisateur. Sans limiter la port&eacute;e de ce qui pr&eacute;c&egrave;de, vous convenez de ne pas utiliser le service &agrave; toute fin commerciale non autrement autoris&eacute;e par ces conditions.
+		</p>
+		<p >
+			<strong>3. Frais et charges</strong>
+			<br />
+			Bell Mobilit&eacute; se r&eacute;serve le droit de modifier les frais et charges, de temps en temps. Votre utilisation du service apr&egrave;s avoir &eacute;t&eacute; pr&eacute;sent&eacute; &agrave; ces droits modifi&eacute;s constitue votre accord de payer tous ces frais et charges, y compris les taxes applicables. Dans la mesure o&ugrave; les frais applicables aux services, vous serez factur&eacute; &agrave; l'avance pour le service.
+		</p>
+		<p >
+			<strong>4. Disponibilit&eacute; du service</strong>
+			<br />
+			Le service est uniquement disponible l&agrave; o&ugrave; il y a des installations de point d'acc&egrave;s sans fil. Bell Mobilit&eacute; n'assume aucune responsabilit&eacute; que ce soit pour tout dommage, r&eacute;clamation, perte ou d&eacute;pense d&eacute;coulant de ou autrement li&eacute; &agrave; l'indisponibilit&eacute; du service dans votre r&eacute;gion g&eacute;ographique, particuli&egrave;rement en ce qui a trait aux modifications apport&eacute;es &agrave; l'emplacement et &agrave; la configuration des points d'acc&egrave;s sans fil.
+		</p>
+		<p >
+			<strong>5. Niveaux de rendement</strong>
+			<br />
+			Bell Mobilit&eacute; ne garantit pas le rendement du service. Vous comprenez que tout contenu auquel vous pouvez acc&eacute;der par l'entremise du service peut &ecirc;tre g&eacute;r&eacute; par le r&eacute;seau de mani&egrave;re &agrave; assurer que tous les utilisateurs des services b&eacute;n&eacute;ficient d'un acc&egrave;s raisonnable aux services.
+		</p>
+		<p >
+			<strong>6. S&eacute;curit&eacute; et confidentialit&eacute;</strong>
+			<br />
+			Bell Mobilit&eacute; ne sera pas responsable de tout fichier corrompu ou virus qui a des r&eacute;percussions sur l'utilisateur du service. Il en tient &agrave; vous de prot&eacute;ger votre syst&egrave;me par les moyens appropri&eacute;s (p. ex. logiciel offert sur le march&eacute;) contre le vol, l'utilisation non autoris&eacute;e ou la corruption du syst&egrave;me. Tout pr&eacute;judice caus&eacute; au r&eacute;seau en raison d'une protection insuffisante de votre syst&egrave;me peut entra&icirc;ner la r&eacute;siliation imm&eacute;diate de votre acc&egrave;s au service. Bell Mobilit&eacute; n'assure ni ne garantit la confidentialit&eacute; des utilisateurs du service. Une telle utilisation se fera &agrave; votre propre risque et Bell Mobilit&eacute;, ses soci&eacute;t&eacute;s affili&eacute;es et ses agents n'assumeront aucune responsabilit&eacute; &agrave; son &eacute;gard. Les points d'acc&egrave;s sans fil repr&eacute;sentent des risques suppl&eacute;mentaires pour la s&eacute;curit&eacute; par rapport &agrave; une connexion Internet &agrave; fil car il est possible d'acc&eacute;der &agrave; votre appareil compatible sans &ecirc;tre directement branch&eacute; &agrave; votre appareil. Nous vous recommandons donc fortement (et il en tient &agrave; vous) de vous assurer que la configuration de votre appareil est s&eacute;curis&eacute;e. Afin d'assurer la compatibilit&eacute; avec le plus grand nombre d'appareils, vous reconnaissez que les points d'acc&egrave;s sans fil ne fournissent aucun niveau de chiffrement (par exemple, WEP, WAP ou autres m&eacute;canismes de chiffrement et d'authentification).
+		</p>
+		<p >
+			<strong>7. Interdiction de revente ou redistribution de la bande passante du service</strong>
+			<br />
+			La revente ou la redistribution de la bande passante ou de toute autre partie du service &agrave; quelque fin que ce soit est strictement interdite. Le non-respect de cette condition entrainera l'annulation imm&eacute;diate de l'acc&egrave;s aux services.
+		</p>
+		<p >
+			<strong>8. Adresse IP et adresse Internet</strong>
+			<br />
+			Toute adresse IP assign&eacute;e &agrave; vous par Bell Mobilit&eacute; demeure la propri&eacute;t&eacute; de Bell Mobilit&eacute; en tout temps. L'adresse IP peut changer chaque fois que vous acc&eacute;dez &agrave; un point d'acc&egrave;s sans fil ou n'importe quand, &agrave; la discr&eacute;tion de Bell Mobilit&eacute; et sans pr&eacute;avis. Bell Mobilit&eacute; n'assume aucune responsabilit&eacute; concernant tout dommage, r&eacute;clamation, perte ou d&eacute;pense d&eacute;coulant de la modification de l'adresse IP ou autrement li&eacute; &agrave; elle.
+		</p>
+		<p >
+			<strong>9. Renseignements relatifs &agrave; l'utilisateur</strong>
+			<br />
+			Vos messages peuvent &ecirc;tre intercept&eacute;s et examin&eacute;s par des tiers non autoris&eacute;s. Tout individu qui a un acc&egrave;s Internet peut causer des dommages, engager des d&eacute;penses et accepter des obligations contractuelles dans Internet. Vous &ecirc;tes responsable de toutes ces actions. Bell Mobilit&eacute; n'est nullement oblig&eacute; de surveiller le service. Toutefois, vous convenez que Bell Mobilit&eacute; se r&eacute;serve le droit d'exercer une surveillance &eacute;lectronique du service de temps &agrave; autre et de divulguer tous les renseignements n&eacute;cessaires pour respecter tout r&egrave;glement, loi ou autre exigence gouvernementale ou, au besoin, pour g&eacute;rer le service, se prot&eacute;ger ou prot&eacute;ger d'autres personnes.
+		</p>
+		<p >
+			<strong>10. Exon&eacute;ration de responsabilit&eacute; pour le contenu</strong>
+			<br />
+			Veuillez noter qu'une partie du contenu, des produits ou des services (&laquo; contenu &raquo;) offerts avec le service ou par son entremise peut vous offenser ou enfreindre les lois applicables l&agrave; o&ugrave; vous acc&eacute;dez aux services. Vous comprenez que ni Bell Mobilit&eacute; ni aucune de ses soci&eacute;t&eacute;s affili&eacute;es ne tente de censurer ni de surveiller un tel contenu. Vous assumez l'enti&egrave;re responsabilit&eacute; et l'entier risque pour l'acc&egrave;s &agrave; ce contenu ou son utilisation, ainsi que l'utilisation d'Internet. Bell Mobilit&eacute; et ses soci&eacute;t&eacute;s affili&eacute;es n'assument aucune responsabilit&eacute; que ce soit pour toute r&eacute;clamation ou perte d&eacute;coulant de l'acc&egrave;s &agrave; ce contenu ou de son utilisation, ou qui lui est autrement li&eacute;e.
+		</p>
+		<p >
+			<strong>11. Garantie limit&eacute;e</strong>
+			<br />
+			Le service est fourni par Bell Mobilit&eacute;&laquo; tel quel &raquo; et &laquo; tel que disponible &raquo;, sans aucune garantie ni condition que ce soit. Vous &ecirc;tes responsable de l'utilisation du service et de sa compatibilit&eacute; avec l'&eacute;quipement, les logiciels, les services et tout autre mat&eacute;riel non fourni par Bell Mobilit&eacute; (&laquo; l'&eacute;quipement et les services fournis par un tiers &raquo;). Bell Mobilit&eacute; d&eacute;cline toute responsabilit&eacute; en ce qui a trait &agrave; la d&eacute;termination de la compatibilit&eacute; entre le service et l'&eacute;quipement et les services fournis par un tiers. Ni Bell Mobilit&eacute;, ni ses soci&eacute;t&eacute;s affili&eacute;es, agents ou fournisseurs ne garantissent le rendement, la disponibilit&eacute;, l'utilisation ininterrompue ou le fonctionnement du service ou de tout produit livr&eacute; fourni dans ces conditions. Vous assumez enti&egrave;rement le risque li&eacute; &agrave; la disponibilit&eacute;, &agrave; la qualit&eacute; et au rendement du service ou de tout produit livr&eacute; fourni dans ces conditions. VOTRE FOURNISSEUR DE SERVICES NE FAIT AUCUNE REPR&Eacute;SENTATION ET N'OFFRE AUCUNE GARANTIE NI CONDITION QUE CE SOIT, EXPRESSE OU IMPLICITE, Y COMPRIS, SANS S'Y LIMITER, LES GARANTIES DE TITRE OU DE NON-CONTREFA&Ccedil;ON, OU LES GARANTIES OU CONDITIONS IMPLICITES DE QUALIT&Eacute; MARCHANDE OU DE CONVENANCE &Agrave; UNE FIN DONN&Eacute;E, EN CE QUI A TRAIT AU SERVICE, AU MAT&Eacute;RIEL, AUX LOGICIELS OU &Agrave; TOUT AUTRE PRODUIT LIVR&Eacute; AUX TERMES DES PR&Eacute;SENTES, OU &Agrave; TOUT RENSEIGNEMENT, MARCHANDISE, CONTENU OU SERVICE FOURNI DANS INTERNET ET &Agrave; TOUTES LES REPR&Eacute;SENTATIONS, GARANTIES OU CONDITIONS QUE CE SOIT, EXPRESSES OU IMPLICITES, DANS LA MESURE PERMISE PAR LA LOI APPLICABLE, QUI SONT EXCLUES AUX PR&Eacute;SENTES.
+		</p>
+		<p >
+			<strong>12. Limitation de responsabilit&eacute;</strong>
+			<br />
+    En cas de toute violation par Bell Mobilit&eacute;, ses soci&eacute;t&eacute;s affili&eacute;es, ses fournisseurs ou ses agents, y compris toute violation d'une clause fondamentale de ces conditions ou toute n&eacute;gligence, votre seul recours sera d'annuler votre acc&egrave;s aux services. &Agrave; l'exception du recours pr&eacute;c&eacute;dent, Bell Mobilit&eacute;, ses soci&eacute;t&eacute;s affili&eacute;es ou ses agents ne seront en aucun cas responsables envers vous ou tout autre tiers pour (i) tout dommage direct, indirect, particulier ou cons&eacute;cutif, y compris, sans s'y limiter, la perte de profits et d'occasions d'affaires d&eacute;coulant d'une mani&egrave;re ou d'une autre de ces conditions, y compris votre utilisation du service ou acc&egrave;s &agrave; Internet, au contenu ou &agrave; toute partie de ce qui pr&eacute;c&egrave;de, ou votre utilisation des renseignements, services ou marchandises fournis dans le cadre ou par l'entremise du service, ou d&eacute;coulant d'erreurs, d'omissions, d'interruptions, de la suppression ou corruption de donn&eacute;es, renseignements ou fichiers, de d&eacute;fauts, de retards dans la pr&eacute;paration ou la transmission, ou de l'inex&eacute;cution, ou (ii) toute perte ou d&eacute;pense (y compris les frais juridiques) d&eacute;coulant de toute all&eacute;gation, poursuite ou autre instance, ou reli&eacute;e &agrave; cette derni&egrave;re, &agrave; l'effet que l'utilisation du service par vous ou un tiers par l'entremise de votre compte enfreint les droits de propri&eacute;t&eacute; intellectuelle ou les droits contractuels de tout tiers.
+		</p>
+		<p >
+			<strong>13. Suspension de l'utilisateur</strong>
+			<br />
+			Ces conditions peuvent &ecirc;tre annul&eacute;es par vous en cessant d'utiliser les services. Bell Mobilit&eacute; peut suspendre ou limiter le service n'importe quand sans pr&eacute;avis ou r&eacute;silier ces conditions, y compris votre droit d'acc&eacute;der au service ou de l'utiliser n'importe quand si (i) le fonctionnement ou l'efficacit&eacute; du service est perturb&eacute; par votre utilisation du service ou si (ii) vous avez enfreint toute clause que ce soit de ces conditions. Bell Mobilit&eacute; ne sera pas responsable d'aviser tout tiers fournisseur de services, de marchandises ou de renseignements d'une telle r&eacute;siliation ou suspension. La r&eacute;siliation de votre droit d'acc&eacute;der aux services ou &agrave; ces conditions, ou de les utiliser, ne vous d&eacute;chargera d'aucune responsabilit&eacute; ayant pu naitre en vertu des pr&eacute;sentes avant le moment o&ugrave; une telle r&eacute;siliation prend effet.
+		</p>
+		<p >
+			<strong>14. Tiers b&eacute;n&eacute;ficiaire</strong>
+			<br />
+			Tim Hortons et ses franchis&eacute;s sont des tiers b&eacute;n&eacute;ficiaires de ces conditions et, en tant que tels, ont droit &agrave; ses protections et peuvent faire appliquer les droits accord&eacute;s par ces conditions.
+		</p>
+		<p >
+			<strong>15. Divers</strong>
+			<br />
+			Ces conditions, ainsi que tous les documents et politiques mentionn&eacute;s aux pr&eacute;sentes, constituent l'int&eacute;gralit&eacute; de l'entente intervenue entre Bell Mobilit&eacute; et vous &agrave; l'&eacute;gard du sujet aux pr&eacute;sentes et remplacera toutes les ententes, conventions et d&eacute;clarations &eacute;crites ou verbales ant&eacute;rieures &agrave; l'&eacute;gard d'un tel sujet. L'omission par Bell Mobilit&eacute; d'insister sur la stricte ex&eacute;cution d'une disposition de ces conditions ou de la faire respecter, ne saurait &ecirc;tre interpr&eacute;t&eacute;e comme une renonciation &agrave; l'application de tout droit ou disposition. Si toute disposition contenue dans ces conditions est jug&eacute;e nulle, invalide ou autrement inex&eacute;cutable par un tribunal comp&eacute;tent, cette d&eacute;termination n'affectera pas les dispositions restantes aux pr&eacute;sentes. En cas d'incompatibilit&eacute; entre une disposition de ces conditions et un tarif applicable, le tarif aura pr&eacute;s&eacute;ance sur ces conditions, mais seulement en ce qui a trait &agrave; la disposition incompatible. Ces conditions seront r&eacute;gies par les lois de la province de l'Ontario et les lois f&eacute;d&eacute;rales du Canada applicables &agrave; cet &eacute;gard et interpr&eacute;t&eacute;es en vertu de ces derni&egrave;res. Bell Mobilit&eacute; peut c&eacute;der ses droits et obligations en vertu de ces conditions &agrave; toute entit&eacute; affili&eacute;e, sans votre consentement &eacute;crit pr&eacute;alable. Vous ne pouvez c&eacute;der ni transf&eacute;rer ces conditions. Bell Mobilit&eacute; ne sera en aucun cas responsable de tout d&eacute;faut de se conformer &agrave; ces conditions d&eacute;coulant de tout &eacute;v&egrave;nement ou condition hors du contr&ocirc;le raisonnable de Bell Mobilit&eacute;, y compris, sans s'y limiter, un incendie, une inondation, un s&eacute;isme, une catastrophe naturelle ou un cas de force majeure, un vol, une &eacute;meute, une gr&egrave;ve ou un autre conflit de travail, une panne de courant ou une guerre.
+		</p>
+		<p>&nbsp;</p>
+					</div>
+	            </div>
+	        </div>
+
+			<div id="mask"></div>
+		</div>
+		<!-- /MODALS -->
+
+		<!-- call the connected prompt -->
+    	<a href="#connected" class="hidden" id="connect" name="modal">Vous &ecirc;tes branch&eacute;(e)!</a>
+    	<a href="#subscribed" class="hidden" id="subscribe" name="modal">Nous vous remercions de votre inscription. Veuillez v&eacute;rifier vos courriels.</a>
+
+	</body>
+</html>
+
+<script type="text/javascript" src="assets/js/wifi.js"></script>
+<script type="text/javascript">
+function revealModal(divID)
+{
+    document.getElementById(divID).style.display = "block";
+}
+function on_load()
+{
+
+
+ $('html, body').animate({scrollTop: $("#top").offset().top }, 500);
+ $("#connect").click();
+
+}
+</script>

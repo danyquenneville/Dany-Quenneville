@@ -1,0 +1,20 @@
+
+[*WMC Logging begun at 2018/03/11 - 05:18:03.  Logging at level: '4'.  OS is NT.  OSVer is 6.1.7601.0.23915. System Lang is 3084. Prev version system is 12.0.7601.23930. Setup version 12.0.7600.16385.]
+Checking for Playlist Obfuscation.
+Playlist location not obfuscated. Doing Obfuscation now.
+Obfuscation for Playlist location succeeded.
+  Created media library for player.
+ERROR: Create CommonStartMenu shortcut failed: '0x80070005'.
+Current command line: '/FirstLogon /Shortcuts /RegBrowsers /ResetMUI'.
+
+[*WMC Logging begun at 2018/03/11 - 05:18:33.  Logging at level: '4'.  OS is NT.  OSVer is 6.1.7601.0.23915. System Lang is 3084. Prev version system is 12.0.7601.23930. Setup version 12.0.7600.16385.]
+Checking for Playlist Obfuscation.
+Playlist location already obfuscated.
+  Created media library for player.
+ERROR: Create CommonStartMenu shortcut failed: '0x80070005'.
+Current command line: '/FirstLogon /Shortcuts /RegBrowsers /ResetMUI'.
+
+[*WMC Logging begun at 2018/03/11 - 05:19:38.  Logging at level: '4'.  OS is NT.  OSVer is 6.1.7601.0.23915. System Lang is 3084. Prev version system is 12.0.7601.23930. Setup version 12.0.7601.17514.]
+Setup commandlines are "C:\Program Files (x86)\Windows Media Player\setup_wm.exe" /SysTrayAndQuit /UpdateClientID:DvdMaker.
+  ERROR: Could not load data for client 'DvdMaker': '0x80004005'.
+  ERROR: Note that Windows Update failures are tracked in %windir%\WindowsUpdate.log
